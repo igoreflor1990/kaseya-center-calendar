@@ -1,0 +1,490 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Kaseya Center Events//kaseyacenter.com//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Kaseya Center Events
+REFRESH-INTERVAL;VALUE=DURATION:PT24H
+X-PUBLISHED-TTL:PT24H
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+SUMMARY:Rosalía
+DTSTART;TZID=America/New_York:20260604T203000
+DTEND;TZID=America/New_York:20260604T233000
+UID:7da6e161dec212ec4ab59cdbb0d4c842903a7732@kaseyacenter.com
+DESCRIPTION:LUX Tour 2026\nTickets: https://www.ticketmaster.com/event/0D0
+ 0636E0CE06340?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_name=
+ rosalia_2026&promo_creative=button&promo_position=event_details\nMore info
+ : https://www.kaseyacenter.com/events/detail/rosalia
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/rosalia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rosalía
+DTSTART;TZID=America/New_York:20260606T203000
+DTEND;TZID=America/New_York:20260606T233000
+UID:c18d4e42254ae3a4639a2263c83413b2fdd2ca0e@kaseyacenter.com
+DESCRIPTION:LUX Tour 2026\nTickets: https://www.ticketmaster.com/event/0D0
+ 0636E0CE06340?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_name=
+ rosalia_2026&promo_creative=button&promo_position=event_details\nMore info
+ : https://www.kaseyacenter.com/events/detail/rosalia
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/rosalia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Summer Walker
+DTSTART;TZID=America/New_York:20260614T193000
+DTEND;TZID=America/New_York:20260614T223000
+UID:9d32fea28c5bbd244f8fe21985671f7427b303dd@kaseyacenter.com
+DESCRIPTION:Still Finally Over It Tour\nTickets: https://www.ticketmaster.
+ com/event/0D006434AA85740B?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotco
+ m&promo_name=summer-walker_2026&promo_creative=button&promo_position=event
+ _details\nMore info: https://www.kaseyacenter.com/events/detail/summer-wal
+ ker
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/summer-walker
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A$AP Rocky
+DTSTART;TZID=America/New_York:20260615T193000
+DTEND;TZID=America/New_York:20260615T223000
+UID:846b5f0ab4d9c8297b924c8ae02e109e09c5cc31@kaseyacenter.com
+DESCRIPTION:Don’t Be Dumb World Tour\nTickets: https://www.ticketmaster.
+ com/event/0D00642F7A384ED2?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotco
+ m&promo_name=a$ap-rocky_2026&promo_creative=button&promo_position=event_de
+ tails\nMore info: https://www.kaseyacenter.com/events/detail/asap-rocky
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/asap-rocky
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shakira
+DTSTART;TZID=America/New_York:20260701T193000
+DTEND;TZID=America/New_York:20260701T223000
+UID:80beee5a65d5395dd1934e6e50677c23948e0005@kaseyacenter.com
+DESCRIPTION:Las Mujeres Ya No Lloran World Tour 2026\nTickets: https://www
+ .ticketmaster.com/event/0D006471AADBA8DC?CAMEFROM=CFC_601BISCAYNE_KCCOM&pr
+ omo_id=kcdotcom&promo_name=shakira_2026&promo_creative=button&promo_positi
+ on=event_details\nMore info: https://www.kaseyacenter.com/events/detail/sh
+ akira-2
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/shakira-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shakira
+DTSTART;TZID=America/New_York:20260702T193000
+DTEND;TZID=America/New_York:20260702T223000
+UID:4ca056773da7f3a6ec9635e46e2dcf5e5e0cc7d1@kaseyacenter.com
+DESCRIPTION:Las Mujeres Ya No Lloran World Tour 2026\nTickets: https://www
+ .ticketmaster.com/event/0D006471AADBA8DC?CAMEFROM=CFC_601BISCAYNE_KCCOM&pr
+ omo_id=kcdotcom&promo_name=shakira_2026&promo_creative=button&promo_positi
+ on=event_details\nMore info: https://www.kaseyacenter.com/events/detail/sh
+ akira-2
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/shakira-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tame Impala
+DTSTART;TZID=America/New_York:20260706T190000
+DTEND;TZID=America/New_York:20260706T220000
+UID:0a47c653b041c02ab764854efc14e472f4a13baa@kaseyacenter.com
+DESCRIPTION:The Deadbeat Tour\nTickets: https://www.ticketmaster.com/event
+ /0D00642FB5F2C7FC?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_n
+ ame=tame-impala_2026&promo_creative=button&promo_position=event_details\nM
+ ore info: https://www.kaseyacenter.com/events/detail/tame-impala-1
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/tame-impala-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tame Impala
+DTSTART;TZID=America/New_York:20260707T190000
+DTEND;TZID=America/New_York:20260707T220000
+UID:1fa8cd892d7942e9efe97db0c0eb86500ff97cce@kaseyacenter.com
+DESCRIPTION:The Deadbeat Tour\nTickets: https://www.ticketmaster.com/event
+ /0D00642FB5F2C7FC?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_n
+ ame=tame-impala_2026&promo_creative=button&promo_position=event_details\nM
+ ore info: https://www.kaseyacenter.com/events/detail/tame-impala-1
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/tame-impala-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:J Cole
+DTSTART;TZID=America/New_York:20260714T200000
+DTEND;TZID=America/New_York:20260714T230000
+UID:5b3da61b93f0c97efcc50ae3ad7481517c892a77@kaseyacenter.com
+DESCRIPTION:The Fall-Off Tour\nTickets: https://www.ticketmaster.com/event
+ /0D00644AF476CCED?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_n
+ ame=j-cole_2026&promo_creative=button&promo_position=event_details\nMore i
+ nfo: https://www.kaseyacenter.com/events/detail/j-cole-2
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/j-cole-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Louis Tomlinson
+DTSTART;TZID=America/New_York:20260724T190000
+DTEND;TZID=America/New_York:20260724T220000
+UID:024717fb9df3b2926097895de434869f34c1ff2e@kaseyacenter.com
+DESCRIPTION:How Did We Get Here? North American Tour 2026\nTickets: https:
+ //www.ticketmaster.com/event/0D00633AE3554582?CAMEFROM=CFC_601BISCAYNE_KCC
+ OM&promo_id=kcdotcom&promo_name=louis-tomlinson_2026&promo_creative=button
+ &promo_position=event_details\nMore info: https://www.kaseyacenter.com/eve
+ nts/detail/louis-tomlinson-1
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/louis-tomlinson-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ricardo Montaner
+DTSTART;TZID=America/New_York:20260829T200000
+DTEND;TZID=America/New_York:20260829T230000
+UID:94a0a896d930e601be5a57b63c375f87cb08e729@kaseyacenter.com
+DESCRIPTION:El Último Regreso Tour\nTickets: https://www.ticketmaster.com
+ /event/0D00635EE3E884F1?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&p
+ romo_name=ricardo-montaner_2026&promo_creative=button&promo_position=event
+ _details\nMore info: https://www.kaseyacenter.com/events/detail/ricardo-mo
+ ntaner-4
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/ricardo-montaner-4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Juanes
+DTSTART;TZID=America/New_York:20260904T200000
+DTEND;TZID=America/New_York:20260904T230000
+UID:9313c4ad8b1c57f71330255639bb0e92161d8e68@kaseyacenter.com
+DESCRIPTION:World Tour 2026\nTickets: https://www.ticketmaster.com/event/0
+ D00644C82656F1A?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_nam
+ e=juanes_2026&promo_creative=button&promo_position=event_details\nMore inf
+ o: https://www.kaseyacenter.com/events/detail/juanes-1
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/juanes-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omar Courtz
+DTSTART;TZID=America/New_York:20260911T200000
+DTEND;TZID=America/New_York:20260911T230000
+UID:869e5cd79d4bdcc484c779163e1217548c87cd1f@kaseyacenter.com
+DESCRIPTION:Por Si Mañana No Estoy Tour\nTickets: https://www.ticketmaste
+ r.com/event/0D006494AAAD946F?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdot
+ com&promo_name=omar-courtz_2026&promo_creative=button&promo_position=event
+ _details\nMore info: https://www.kaseyacenter.com/events/detail/omar-court
+ z
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/omar-courtz
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Omar Courtz
+DTSTART;TZID=America/New_York:20260912T200000
+DTEND;TZID=America/New_York:20260912T230000
+UID:491db856d70f36f0f1ba10c972158234a141ff17@kaseyacenter.com
+DESCRIPTION:Por Si Mañana No Estoy Tour\nTickets: https://www.ticketmaste
+ r.com/event/0D006494AAAD946F?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdot
+ com&promo_name=omar-courtz_2026&promo_creative=button&promo_position=event
+ _details\nMore info: https://www.kaseyacenter.com/events/detail/omar-court
+ z
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/omar-courtz
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gorillaz
+DTSTART;TZID=America/New_York:20260918T193000
+DTEND;TZID=America/New_York:20260918T223000
+UID:d77ba53bc1fb4443b4d1c728c80cf29311419910@kaseyacenter.com
+DESCRIPTION:The Mountain Tour\nTickets: https://www.ticketmaster.com/event
+ /0D00645ACAB6102B?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_n
+ ame=gorillaz_2026&promo_creative=button&promo_position=event_details\nMore
+  info: https://www.kaseyacenter.com/events/detail/gorillaz-1
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/gorillaz-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Soda Stereo
+DTSTART;TZID=America/New_York:20260920T200000
+DTEND;TZID=America/New_York:20260920T230000
+UID:f482789220f6e290e3238a87198a45a91d9be26f@kaseyacenter.com
+DESCRIPTION:ECOS Tour\nTickets: https://www.ticketmaster.com/event/0D00649
+ D9866B5C7?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_name=soda
+ -stereo_2026&promo_creative=button&promo_position=event_details\nMore info
+ : https://www.kaseyacenter.com/events/detail/soda-stereo-1
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/soda-stereo-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arly Lariviére
+DTSTART;TZID=America/New_York:20260925T200000
+DTEND;TZID=America/New_York:20260925T230000
+UID:934b8db7259f035aeb427684b27dea45b8c015d7@kaseyacenter.com
+DESCRIPTION:Konpa En Symphony\nTickets: https://www.ticketmaster.com/event
+ /0D0064989005C8A9?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_n
+ ame=arly-lariviere_2026&promo_creative=button&promo_position=event_details
+ \nMore info: https://www.kaseyacenter.com/events/detail/arly-lariviere
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/arly-lariviere
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:aespa
+DTSTART;TZID=America/New_York:20260926T200000
+DTEND;TZID=America/New_York:20260926T230000
+UID:092fe4a7b0864ea6a6d95c2f1115b8e2b21d4e65@kaseyacenter.com
+DESCRIPTION:2026–27 LIVE TOUR – SYNK : Complæxity\nTickets: https://w
+ ww.ticketmaster.com/event/0D0064940F3C61C3?CAMEFROM=CFC_601BISCAYNE_KCCOM&
+ promo_id=kcdotcom&promo_name=aespa_2026&promo_creative=button&promo_positi
+ on=event_details\nMore info: https://www.kaseyacenter.com/events/detail/ae
+ spa
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/aespa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kany Garcia
+DTSTART;TZID=America/New_York:20261003T200000
+DTEND;TZID=America/New_York:20261003T230000
+UID:350ce5658b7b2d97a8c13ce4872aeda0c4b0a3ec@kaseyacenter.com
+DESCRIPTION:Puerta Abierta Tour\nTickets: https://www.ticketmaster.com/eve
+ nt/0D006488B386B2C2?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo
+ _name=kany-garcia_2026&promo_creative=button&promo_position=event_details\
+ nMore info: https://www.kaseyacenter.com/events/detail/kany-garcia-1
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/kany-garcia-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Don Omar
+DTSTART;TZID=America/New_York:20261004T200000
+DTEND;TZID=America/New_York:20261004T230000
+UID:723c6397574d566dfc6866eb7c1aab27358d3c0d@kaseyacenter.com
+DESCRIPTION:The Last King World Tour\nTickets: https://www.ticketmaster.co
+ m/event/0D0064ADD895DB42?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&
+ promo_name=don-omar_2026&promo_creative=button&promo_position=event_detail
+ s\nMore info: https://www.kaseyacenter.com/events/detail/don-omar-1
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/don-omar-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Orleans Pelicans vs Miami HEAT
+DTSTART;TZID=America/New_York:20261008T193000
+DTEND;TZID=America/New_York:20261008T223000
+UID:a1ff88f2e137b6de60f8c5a0ce2a3f5701a0d957@kaseyacenter.com
+DESCRIPTION:2026 Preseason\nTickets: https://www.ticketmaster.com/event/0D
+ 0064A5AB209DF4?CAMEFROM=CFC_HEAT_KCCOM&promo_id=kcdotcom&promo_name=presea
+ son&promo_creative=button&promo_position=event_details\nMore info: https:/
+ /www.kaseyacenter.com/events/detail/new-orleans-pelicans-vs-miami-heat-14
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/new-orleans-pelicans-vs-mia
+ mi-heat-14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Camilo
+DTSTART;TZID=America/New_York:20261009T200000
+DTEND;TZID=America/New_York:20261009T230000
+UID:896699a14227da5e83a062f758c552e26e8c531c@kaseyacenter.com
+DESCRIPTION:USA 2026 Tour\nTickets: https://www.ticketmaster.com/event/0D0
+ 06331BF132ABC?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_name=
+ camilo_2026&promo_creative=button&promo_position=event_details\nMore info:
+  https://www.kaseyacenter.com/events/detail/camilo-1
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/camilo-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minnesota Timberwolves vs Miami HEAT
+DTSTART;TZID=America/New_York:20261010T200000
+DTEND;TZID=America/New_York:20261010T230000
+UID:fa1392eb4a3b501ac82431cdafb73536287f835c@kaseyacenter.com
+DESCRIPTION:2026 Preseason\nTickets: https://www.ticketmaster.com/event/0D
+ 0064A5AB259E01?CAMEFROM=CFC_HEAT_KCCOM&promo_id=kcdotcom&promo_name=presea
+ son&promo_creative=button&promo_position=event_details\nMore info: https:/
+ /www.kaseyacenter.com/events/detail/minnesota-timberwolves-vs-miami-heat-1
+ 3
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/minnesota-timberwolves-vs-m
+ iami-heat-13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arcángel
+DTSTART;TZID=America/New_York:20261011T200000
+DTEND;TZID=America/New_York:20261011T230000
+UID:891ae93459d08ff8466cda840967bdbc433aa603@kaseyacenter.com
+DESCRIPTION:La 8va Maravilla World Tour\nTickets: https://www.ticketmaster
+ .com/event/0D0064AC03232957?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotc
+ om&promo_name=arcangel_2026&promo_creative=button&promo_position=event_det
+ ails\nMore info: https://www.kaseyacenter.com/events/detail/arcangel-1
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/arcangel-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Katseye
+DTSTART;TZID=America/New_York:20261013T200000
+DTEND;TZID=America/New_York:20261013T230000
+UID:ff42fdd98e64287c49d207769a60a3efa750dca3@kaseyacenter.com
+DESCRIPTION:The WildWorld Tour\nTickets: https://www.ticketmaster.com/even
+ t/0D0064ABEED4E240?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_
+ name=katseye_2026&promo_creative=button&promo_position=event_details\nMore
+  info: https://www.kaseyacenter.com/events/detail/katseye
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/katseye
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brooklyn Nets vs Miami HEAT
+DTSTART;TZID=America/New_York:20261014T193000
+DTEND;TZID=America/New_York:20261014T223000
+UID:fd18d58f8d6f6a446975288f641bcc2f29c40fbc@kaseyacenter.com
+DESCRIPTION:2026 Preseason\nTickets: https://www.ticketmaster.com/event/0D
+ 0064A5AB2A9E04?CAMEFROM=CFC_HEAT_KCCOM&promo_id=kcdotcom&promo_name=presea
+ son&promo_creative=button&promo_position=event_details\nMore info: https:/
+ /www.kaseyacenter.com/events/detail/brooklyn-nets-vs-miami-heat-20
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/brooklyn-nets-vs-miami-heat
+ -20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tini
+DTSTART;TZID=America/New_York:20261018T200000
+DTEND;TZID=America/New_York:20261018T230000
+UID:4a78ec36b3c847755807a4f29728f6c67d64b121@kaseyacenter.com
+DESCRIPTION:FUTTTURA World Tour\nTickets: https://www.ticketmaster.com/eve
+ nt/0D0064B3151133D8?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo
+ _name=tini_2026&promo_creative=button&promo_position=event_details\nMore i
+ nfo: https://www.kaseyacenter.com/events/detail/tini-1
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/tini-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chayanne
+DTSTART;TZID=America/New_York:20261024T200000
+DTEND;TZID=America/New_York:20261024T230000
+UID:7a08c22b170599cce4df63d5d08933d592afc73c@kaseyacenter.com
+DESCRIPTION:Bailemos Otra Vez Tour\nTickets: https://www.ticketmaster.com/
+ event/0D00646A64C11EFD?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&pr
+ omo_name=chayanne_2026&promo_creative=button&promo_position=event_details\
+ nMore info: https://www.kaseyacenter.com/events/detail/chayanne-3
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/chayanne-3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Young Miko
+DTSTART;TZID=America/New_York:20261028T200000
+DTEND;TZID=America/New_York:20261028T230000
+UID:7f980c91a5210fe910f50c7494f511742ae48550@kaseyacenter.com
+DESCRIPTION:Late Checkout Tour\nTickets: https://www.ticketmaster.com/even
+ t/0D006483BCB1D6C1?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_
+ name=young-miko_2026&promo_creative=button&promo_position=event_details\nM
+ ore info: https://www.kaseyacenter.com/events/detail/young-miko
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/young-miko
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EROS RAMAZZOTTI
+DTSTART;TZID=America/New_York:20261031T200000
+DTEND;TZID=America/New_York:20261031T230000
+UID:d1ed78c8d800c2b0270593e1c6807721614d2280@kaseyacenter.com
+DESCRIPTION:UNA HISTORIA IMPORTANTE\nTickets: https://www.ticketmaster.com
+ /event/0D00628388B04C45?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&p
+ romo_name=eros-ramazzotti_2026&promo_creative=button&promo_position=event_
+ details\nMore info: https://www.kaseyacenter.com/events/detail/eros-ramazz
+ otti-3
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/eros-ramazzotti-3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Doja Cat
+DTSTART;TZID=America/New_York:20261111T193000
+DTEND;TZID=America/New_York:20261111T223000
+UID:23da3cf0d8a4512dba9eb0cc679033b3a3d0392c@kaseyacenter.com
+DESCRIPTION:Ma Vie World Tour\nTickets: https://www.ticketmaster.com/event
+ /0D006339140D4C8B?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_n
+ ame=doja-cat_2026&promo_creative=button&promo_position=event_details\nMore
+  info: https://www.kaseyacenter.com/events/detail/doja-cat-1
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/doja-cat-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Neighbourhood
+DTSTART;TZID=America/New_York:20261112T190000
+DTEND;TZID=America/New_York:20261112T220000
+UID:3b6e344c0801a7863637754ac4b42945a75d5203@kaseyacenter.com
+DESCRIPTION:The Wourld Tour\nTickets: https://www.ticketmaster.com/event/0
+ D006449E4C49B80?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_nam
+ e=the-neighbourhood_2026&promo_creative=button&promo_position=event_detail
+ s\nMore info: https://www.kaseyacenter.com/events/detail/the-neighbourhood
+ -1
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/the-neighbourhood-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:John Summit
+DTSTART;TZID=America/New_York:20261120T200000
+DTEND;TZID=America/New_York:20261120T230000
+UID:e872e8998e90fb752999b51532781471fc44cf5d@kaseyacenter.com
+DESCRIPTION:CTRL Escape Tour\nTickets: https://www.ticketmaster.com/event/
+ 0D0064B2B883819E?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_na
+ me=john-summit_2026&promo_creative=button&promo_position=event_details\nMo
+ re info: https://www.kaseyacenter.com/events/detail/john-summit
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/john-summit
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:John Summit
+DTSTART;TZID=America/New_York:20261121T200000
+DTEND;TZID=America/New_York:20261121T230000
+UID:2884725d7fabefb7b1657312e55103536576a377@kaseyacenter.com
+DESCRIPTION:CTRL Escape Tour\nTickets: https://www.ticketmaster.com/event/
+ 0D0064B2B883819E?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_na
+ me=john-summit_2026&promo_creative=button&promo_position=event_details\nMo
+ re info: https://www.kaseyacenter.com/events/detail/john-summit
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/john-summit
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RAWAYANA
+DTSTART;TZID=America/New_York:20261205T200000
+DTEND;TZID=America/New_York:20261205T230000
+UID:e3236eb12cf2f80211027fef27ac248706cdac29@kaseyacenter.com
+DESCRIPTION:¿Dónde Es El After? World Tour\nTickets: https://www.ticketm
+ aster.com/event/0D00646CAA719BDC?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=k
+ cdotcom&promo_name=rawayana_2026&promo_creative=button&promo_position=even
+ t_details\nMore info: https://www.kaseyacenter.com/events/detail/rawayana
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/rawayana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RAWAYANA
+DTSTART;TZID=America/New_York:20261206T200000
+DTEND;TZID=America/New_York:20261206T230000
+UID:dadc59d2729539d39b534ac4a85b2113e459105a@kaseyacenter.com
+DESCRIPTION:¿Dónde Es El After? World Tour\nTickets: https://www.ticketm
+ aster.com/event/0D00646CAA719BDC?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=k
+ cdotcom&promo_name=rawayana_2026&promo_creative=button&promo_position=even
+ t_details\nMore info: https://www.kaseyacenter.com/events/detail/rawayana
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/rawayana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:America Business Forum
+DTSTART;TZID=America/New_York:20261216T100000
+DTEND;TZID=America/New_York:20261216T130000
+UID:5fd8dd20cffdb6e38b2aad630906428530361500@kaseyacenter.com
+DESCRIPTION:Where The World Comes Together\nTickets: https://www.americabu
+ siness.com/america-business-miami/tickets-miami\nMore info: https://www.ka
+ seyacenter.com/events/detail/america-business-forum-1
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/america-business-forum-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:America Business Forum
+DTSTART;TZID=America/New_York:20261217T100000
+DTEND;TZID=America/New_York:20261217T130000
+UID:7d89408d2d6c389dfed909f0773c4d85dddbceba@kaseyacenter.com
+DESCRIPTION:Where The World Comes Together\nTickets: https://www.americabu
+ siness.com/america-business-miami/tickets-miami\nMore info: https://www.ka
+ seyacenter.com/events/detail/america-business-forum-1
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/america-business-forum-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Morat
+DTSTART;TZID=America/New_York:20270320T200000
+DTEND;TZID=America/New_York:20270320T230000
+UID:5d7e4313cc80ba2e53766579dcddf6966d2a57a2@kaseyacenter.com
+DESCRIPTION:YEM World Tour 2027\nTickets: https://www.ticketmaster.com/eve
+ nt/0D0064AFE0C21947?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo
+ _name=morat_2027&promo_creative=button&promo_position=event_details\nMore 
+ info: https://www.kaseyacenter.com/events/detail/morat-1
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/morat-1
+END:VEVENT
+END:VCALENDAR
