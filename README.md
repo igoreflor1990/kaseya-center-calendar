@@ -11,15 +11,13 @@ A GitHub Actions workflow regenerates `calendar.ics` every morning and commits a
 **URL to copy:**
 
 ```
-https://<YOUR_GITHUB_USERNAME>.github.io/<YOUR_REPO_NAME>/calendar.ics
+https://igoreflor1990.github.io/kaseya-center-calendar/calendar.ics
 ```
-
-Replace `<YOUR_GITHUB_USERNAME>` and `<YOUR_REPO_NAME>` with your actual values after you push this repo and enable Pages.
 
 **Tap-to-subscribe link** (swap `https://` for `webcal://` — tapping this URL opens the subscribe dialog directly in iOS Calendar):
 
 ```
-webcal://<YOUR_GITHUB_USERNAME>.github.io/<YOUR_REPO_NAME>/calendar.ics
+webcal://igoreflor1990.github.io/kaseya-center-calendar/calendar.ics
 ```
 
 ### iOS steps
