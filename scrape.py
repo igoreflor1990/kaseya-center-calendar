@@ -75,26 +75,32 @@ def parse_month(data: dict) -> list[dict]:
             month_n, day_n, year_n = date_key.split("-")
             event_date = date(int(year_n), int(month_n), int(day_n))
 
-            all_day = False
+            start_dt: datetime | None = None
             if raw_time:
                 try:
                     t = datetime.strptime(raw_time, "%I:%M %p")
-                    start_dt: datetime | date = datetime(
+                    start_dt = datetime(
                         event_date.year, event_date.month, event_date.day,
                         t.hour, t.minute, tzinfo=MIAMI_TZ,
                     )
-                    end_dt: datetime | date = start_dt + timedelta(hours=3)
                 except ValueError:
-                    all_day = True
-            else:
-                all_day = True
+                    start_dt = None  # fall through to the default below
 
-            if all_day:
-                start_dt = event_date
-                end_dt = event_date + timedelta(days=1)  # DTEND is exclusive for DATE events
+            if start_dt is None:
+                # No specific time listed (or unparseable) — default to 7:00 PM
+                # ET so the event shows at a useful time rather than all-day.
+                start_dt = datetime(
+                    event_date.year, event_date.month, event_date.day,
+                    19, 0, tzinfo=MIAMI_TZ,
+                )
+            end_dt = start_dt + timedelta(hours=3)
 
-            # Stable UID: hash of date + detail URL so re-runs update, not duplicate
-            uid = hashlib.sha1(f"{date_key}:{detail_url}".encode()).hexdigest() + "@kaseyacenter.com"
+            # Stable UID: hash of date + detail URL so re-runs update, not duplicate.
+            # The URL slug is more stable than the name (cosmetic renames won't
+            # orphan the event); fall back to the name only if no URL is present,
+            # so two same-day untitled events can't collide onto one UID.
+            uid_basis = detail_url or name
+            uid = hashlib.sha1(f"{date_key}:{uid_basis}".encode()).hexdigest() + "@kaseyacenter.com"
 
             events.append({
                 "uid": uid,
@@ -104,7 +110,6 @@ def parse_month(data: dict) -> list[dict]:
                 "ticket_url": ticket_url,
                 "start_dt": start_dt,
                 "end_dt": end_dt,
-                "all_day": all_day,
             })
     return events
 
@@ -121,7 +126,15 @@ def build_ics(events: list[dict]) -> bytes:
     cal.add("x-published-ttl", "PT24H")
     cal.add("refresh-interval;value=duration", "PT24H")
 
+    seen_uids: set[str] = set()
     for ev in sorted(events, key=lambda e: e["start_dt"]):
+        # Guard against duplicate UIDs (e.g. if the endpoint ever returns a day
+        # in two adjacent-month responses). Duplicate UIDs confuse calendar
+        # clients, so keep only the first occurrence.
+        if ev["uid"] in seen_uids:
+            continue
+        seen_uids.add(ev["uid"])
+
         vevent = Event()
         vevent.add("uid", ev["uid"])
         vevent.add("summary", ev["name"])
@@ -143,6 +156,10 @@ def build_ics(events: list[dict]) -> bytes:
         vevent.add("dtend", ev["end_dt"])
 
         cal.add_component(vevent)
+
+    # Emit a VTIMEZONE definition for America/New_York so the TZID references
+    # are RFC 5545-compliant and resolve correctly in stricter clients.
+    cal.add_missing_timezones()
 
     return cal.to_ical()
 
