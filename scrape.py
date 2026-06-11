@@ -26,11 +26,18 @@ LOCATION = "Kaseya Center, 601 Biscayne Blvd, Miami, FL 33132"
 MONTHS_AHEAD = 13  # current month + 12 more = always ~1 year of events
 OUTPUT_FILE = "calendar.ics"
 
+DETAIL_URL_RE = re.compile(r"/events/detail/")
+TICKETS_CLASS_RE = re.compile(r"\btickets\b")
+
+# One session for all 13 monthly requests: reuses the TCP/TLS connection
+SESSION = requests.Session()
+SESSION.headers["User-Agent"] = "KaseyaCenterCalendarBot/1.0"
+
 
 def fetch_month(year: int, month: int) -> dict:
     """Return a {MM-DD-YYYY: html_snippet} dict, or {} when no events exist."""
     url = BASE_URL.format(year=year, month=month)
-    resp = requests.get(url, timeout=15, headers={"User-Agent": "KaseyaCenterCalendarBot/1.0"})
+    resp = SESSION.get(url, timeout=15)
     resp.raise_for_status()
     data = resp.json()
     # Empty months return {"events": []} rather than a date-keyed dict
@@ -54,7 +61,7 @@ def parse_month(data: dict) -> list[dict]:
             name = name_tag.get_text(strip=True)
 
             # Determine the detail URL (used for dedup UID and as the calendar URL)
-            detail_link = wrapper.find("a", href=re.compile(r"/events/detail/"))
+            detail_link = wrapper.find("a", href=DETAIL_URL_RE)
             detail_url = detail_link["href"] if detail_link else ""
 
             if EXCLUDE_ALL_ACCESS_TOURS and (
@@ -68,7 +75,7 @@ def parse_month(data: dict) -> list[dict]:
             time_tag = wrapper.find("span", class_="time")
             raw_time = time_tag.get_text(strip=True).lstrip("- ").strip() if time_tag else ""
 
-            ticket_link = wrapper.find("a", class_=re.compile(r"\btickets\b"))
+            ticket_link = wrapper.find("a", class_=TICKETS_CLASS_RE)
             ticket_url = ticket_link["href"] if ticket_link else detail_url
 
             # date_key format: MM-DD-YYYY
@@ -174,12 +181,14 @@ def main() -> None:
         year = today.year + total_months // 12
         month = total_months % 12 + 1
 
+        if offset:
+            time.sleep(0.5)  # Space requests politely (also after a failure)
+
         print(f"  Fetching {year}/{month:02d} ...", file=sys.stderr)
         try:
             data = fetch_month(year, month)
             events = parse_month(data)
             all_events.extend(events)
-            time.sleep(0.5)  # Be a polite scraper
         except Exception as exc:
             print(f"  WARNING: failed {year}/{month}: {exc}", file=sys.stderr)
 
