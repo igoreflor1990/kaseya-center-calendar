@@ -60,30 +60,6 @@ TZOFFSETTO:-0500
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Rosalía
-DTSTART;TZID=America/New_York:20260604T203000
-DTEND;TZID=America/New_York:20260604T233000
-UID:7da6e161dec212ec4ab59cdbb0d4c842903a7732@kaseyacenter.com
-DESCRIPTION:LUX Tour 2026\nTickets: https://www.ticketmaster.com/event/0D0
- 0636E0CE06340?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_name=
- rosalia_2026&promo_creative=button&promo_position=event_details\nMore info
- : https://www.kaseyacenter.com/events/detail/rosalia
-LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
-URL:https://www.kaseyacenter.com/events/detail/rosalia
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rosalía
-DTSTART;TZID=America/New_York:20260606T203000
-DTEND;TZID=America/New_York:20260606T233000
-UID:c18d4e42254ae3a4639a2263c83413b2fdd2ca0e@kaseyacenter.com
-DESCRIPTION:LUX Tour 2026\nTickets: https://www.ticketmaster.com/event/0D0
- 0636E0CE06340?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_name=
- rosalia_2026&promo_creative=button&promo_position=event_details\nMore info
- : https://www.kaseyacenter.com/events/detail/rosalia
-LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
-URL:https://www.kaseyacenter.com/events/detail/rosalia
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Summer Walker
 DTSTART;TZID=America/New_York:20260614T193000
 DTEND;TZID=America/New_York:20260614T223000
@@ -233,6 +209,30 @@ DESCRIPTION:Por Si Mañana No Estoy Tour\nTickets: https://www.ticketmaste
  z
 LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
 URL:https://www.kaseyacenter.com/events/detail/omar-courtz
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rosalía
+DTSTART;TZID=America/New_York:20260914T203000
+DTEND;TZID=America/New_York:20260914T233000
+UID:4de62f44fc7f89cb5d25643c553d9267fd4e808a@kaseyacenter.com
+DESCRIPTION:LUX Tour 2026\nTickets: https://www.ticketmaster.com/event/0D0
+ 0636E0CE06340?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_name=
+ rosalia_2026&promo_creative=button&promo_position=event_details\nMore info
+ : https://www.kaseyacenter.com/events/detail/rosalia
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/rosalia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rosalía
+DTSTART;TZID=America/New_York:20260916T203000
+DTEND;TZID=America/New_York:20260916T233000
+UID:bf6873309ebe07d17c3e566eefb9cdf8e45d48b0@kaseyacenter.com
+DESCRIPTION:LUX Tour 2026\nTickets: https://www.ticketmaster.com/event/0D0
+ 0636E0CE06340?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_name=
+ rosalia_2026&promo_creative=button&promo_position=event_details\nMore info
+ : https://www.kaseyacenter.com/events/detail/rosalia
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/rosalia
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gorillaz
