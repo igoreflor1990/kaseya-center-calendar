@@ -27,7 +27,7 @@ webcal://igoreflor1990.github.io/kaseya-center-calendar/calendar.ics
 
 Or just tap the `webcal://` link above on your iPhone — it will prompt you to subscribe.
 
-> **Content-Type note:** GitHub Pages serves `.ics` files as `text/plain` by default, which is fine. iOS Calendar, macOS Calendar, and Google Calendar all accept that. If a client refuses, you can force the correct type by adding a [`_config.yml`](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll) or a `_headers` file — but in practice this is never needed for `.ics` subscriptions.
+> **Content-Type note:** GitHub Pages serves this file with `Content-Type: text/calendar` (verified), which is exactly what calendar clients expect — no extra configuration needed. iOS Calendar, macOS Calendar, and Google Calendar all subscribe to it directly.
 
 ---
 
