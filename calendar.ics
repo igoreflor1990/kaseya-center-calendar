@@ -86,8 +86,8 @@ URL:https://www.kaseyacenter.com/events/detail/asap-rocky
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shakira
-DTSTART;TZID=America/New_York:20260701T193000
-DTEND;TZID=America/New_York:20260701T223000
+DTSTART;TZID=America/New_York:20260701T203000
+DTEND;TZID=America/New_York:20260701T233000
 UID:80beee5a65d5395dd1934e6e50677c23948e0005@kaseyacenter.com
 DESCRIPTION:Las Mujeres Ya No Lloran World Tour 2026\nTickets: https://www
  .ticketmaster.com/event/0D006471AADBA8DC?CAMEFROM=CFC_601BISCAYNE_KCCOM&pr
@@ -99,8 +99,8 @@ URL:https://www.kaseyacenter.com/events/detail/shakira-2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shakira
-DTSTART;TZID=America/New_York:20260702T193000
-DTEND;TZID=America/New_York:20260702T223000
+DTSTART;TZID=America/New_York:20260702T203000
+DTEND;TZID=America/New_York:20260702T233000
 UID:4ca056773da7f3a6ec9635e46e2dcf5e5e0cc7d1@kaseyacenter.com
 DESCRIPTION:Las Mujeres Ya No Lloran World Tour 2026\nTickets: https://www
  .ticketmaster.com/event/0D006471AADBA8DC?CAMEFROM=CFC_601BISCAYNE_KCCOM&pr
