@@ -528,6 +528,18 @@ LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
 URL:https://www.kaseyacenter.com/events/detail/america-business-forum-1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Don Omar
+DTSTART;TZID=America/New_York:20270312T200000
+DTEND;TZID=America/New_York:20270312T230000
+UID:2e5df7ccc25047e874f1a77c7df6995ccf7c08ff@kaseyacenter.com
+DESCRIPTION:The Last King World Tour\nTickets:  https://www.ticketmaster.c
+ om/event/0D0064D190834A54?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom
+ &promo_name=don-omar_2026&promo_creative=button&promo_position=event_detai
+ ls\nMore info: https://www.kaseyacenter.com/events/detail/don-omar-2
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/don-omar-2
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Morat
 DTSTART;TZID=America/New_York:20270320T200000
 DTEND;TZID=America/New_York:20270320T230000
