@@ -160,12 +160,38 @@ LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
 URL:https://www.kaseyacenter.com/events/detail/louis-tomlinson-1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Don Toliver
+DTSTART;TZID=America/New_York:20260822T193000
+DTEND;TZID=America/New_York:20260822T223000
+UID:4075c9b7d0ce34a3f8e1e1b2fa27d917b312502c@kaseyacenter.com
+DESCRIPTION:NITROUS - OCTANE WORLD TOUR LEG 2\nTickets: https://www.ticket
+ master.com/event/0D0064CB10A2D9AC?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=
+ kcdotcom&promo_name=don-toliver_2026&promo_creative=button&promo_position=
+ event_details\nMore info: https://www.kaseyacenter.com/events/detail/don-t
+ oliver
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/don-toliver
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ricardo Montaner
 DTSTART;TZID=America/New_York:20260829T200000
 DTEND;TZID=America/New_York:20260829T230000
 UID:94a0a896d930e601be5a57b63c375f87cb08e729@kaseyacenter.com
 DESCRIPTION:El Último Regreso Tour\nTickets: https://www.ticketmaster.com
- /event/0D00635EE3E884F1?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&p
+ /event/0D00636ABC598360?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&p
+ romo_name=ricardo-montaner_2026&promo_creative=button&promo_position=event
+ _details\nMore info: https://www.kaseyacenter.com/events/detail/ricardo-mo
+ ntaner-4
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/ricardo-montaner-4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ricardo Montaner
+DTSTART;TZID=America/New_York:20260830T200000
+DTEND;TZID=America/New_York:20260830T230000
+UID:e8098ae2cee35704e78994511011b3387ec6c946@kaseyacenter.com
+DESCRIPTION:El Último Regreso Tour\nTickets: https://www.ticketmaster.com
+ /event/0D00636ABC598360?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&p
  romo_name=ricardo-montaner_2026&promo_creative=button&promo_position=event
  _details\nMore info: https://www.kaseyacenter.com/events/detail/ricardo-mo
  ntaner-4
