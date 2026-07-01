@@ -60,31 +60,6 @@ TZOFFSETTO:-0500
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Summer Walker
-DTSTART;TZID=America/New_York:20260614T193000
-DTEND;TZID=America/New_York:20260614T223000
-UID:9d32fea28c5bbd244f8fe21985671f7427b303dd@kaseyacenter.com
-DESCRIPTION:Still Finally Over It Tour\nTickets: https://www.ticketmaster.
- com/event/0D006434AA85740B?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotco
- m&promo_name=summer-walker_2026&promo_creative=button&promo_position=event
- _details\nMore info: https://www.kaseyacenter.com/events/detail/summer-wal
- ker
-LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
-URL:https://www.kaseyacenter.com/events/detail/summer-walker
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A$AP Rocky
-DTSTART;TZID=America/New_York:20260615T203000
-DTEND;TZID=America/New_York:20260615T233000
-UID:846b5f0ab4d9c8297b924c8ae02e109e09c5cc31@kaseyacenter.com
-DESCRIPTION:Don’t Be Dumb World Tour\nTickets: https://www.ticketmaster.
- com/event/0D00642F7A384ED2?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotco
- m&promo_name=a$ap-rocky_2026&promo_creative=button&promo_position=event_de
- tails\nMore info: https://www.kaseyacenter.com/events/detail/asap-rocky
-LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
-URL:https://www.kaseyacenter.com/events/detail/asap-rocky
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Shakira
 DTSTART;TZID=America/New_York:20260701T203000
 DTEND;TZID=America/New_York:20260701T233000
