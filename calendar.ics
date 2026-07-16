@@ -135,6 +135,19 @@ LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
 URL:https://www.kaseyacenter.com/events/detail/louis-tomlinson-1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Unidos Por Venezuela
+DTSTART;TZID=America/New_York:20260816T180000
+DTEND;TZID=America/New_York:20260816T210000
+UID:e5c7e40b27489f77d77a9b55ceb3eb3389455a5e@kaseyacenter.com
+DESCRIPTION:Live Benefit Concert & National Telethon\nTickets: https://www
+ .ticketmaster.com/event/0D0064EA9A88501D?CAMEFROM=CFC_601BISCAYNE_KCCOM&pr
+ omo_id=kcdotcom&promo_name=unidos-por-venezuela_2026&promo_creative=button
+ &promo_position=event_details\nMore info: https://www.kaseyacenter.com/eve
+ nts/detail/unidos-por-venezuela
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/unidos-por-venezuela
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Don Toliver
 DTSTART;TZID=America/New_York:20260822T193000
 DTEND;TZID=America/New_York:20260822T223000
