@@ -395,6 +395,19 @@ URL:https://www.kaseyacenter.com/events/detail/brooklyn-nets-vs-miami-heat
  -20
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:iHeartRadio
+DTSTART;TZID=America/New_York:20261017T200000
+DTEND;TZID=America/New_York:20261017T230000
+UID:a11b77866883e30b3fafd2c1663e958b3ea7d8e0@kaseyacenter.com
+DESCRIPTION:Fiesta Latina 2026\nTickets: https://www.ticketmaster.com/even
+ t/0D0064C58CC07B23?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_
+ name=iheart-radio-fiesta-latina_2026&promo_creative=button&promo_position=
+ event_details\nMore info: https://www.kaseyacenter.com/events/detail/ihear
+ tradio
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/iheartradio
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tini
 DTSTART;TZID=America/New_York:20261018T200000
 DTEND;TZID=America/New_York:20261018T230000
