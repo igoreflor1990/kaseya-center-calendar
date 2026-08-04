@@ -247,6 +247,19 @@ LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
 URL:https://www.kaseyacenter.com/events/detail/don-omar-1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Red\, White & Pink Game
+DTSTART;TZID=America/New_York:20261006T183000
+DTEND;TZID=America/New_York:20261006T213000
+UID:a5603a2092920719ef0bed93623d54060a2214cb@kaseyacenter.com
+DESCRIPTION:Presented By Baptist Health Herbert Wertheim Cancer Institute\
+ nTickets: https://www.ticketmaster.com/event/0D0064FDD6DC869B?CAMEFROM=CFC
+ _601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_name=rwp26&promo_creative=butto
+ n&promo_position=event_details\nMore info: https://www.kaseyacenter.com/ev
+ ents/detail/red-white-pink-game-3
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/red-white-pink-game-3
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:New Orleans Pelicans vs Miami HEAT
 DTSTART;TZID=America/New_York:20261008T193000
 DTEND;TZID=America/New_York:20261008T223000
