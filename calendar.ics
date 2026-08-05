@@ -471,6 +471,18 @@ LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
 URL:https://www.kaseyacenter.com/events/detail/rawayana
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gente de Zona
+DTSTART;TZID=America/New_York:20261211T200000
+DTEND;TZID=America/New_York:20261211T230000
+UID:add7a99b2efbef315018e724c5f4ace9692e32b7@kaseyacenter.com
+DESCRIPTION:Isla Viva Tour\nTickets: https://www.ticketmaster.com/event/0D
+ 0064F77EC22BAE?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_name
+ =gente-de-zona_2026&promo_creative=button&promo_position=event_details\nMo
+ re info: https://www.kaseyacenter.com/events/detail/gente-de-zona
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/gente-de-zona
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:America Business Forum
 DTSTART;TZID=America/New_York:20261216T100000
 DTEND;TZID=America/New_York:20261216T130000
