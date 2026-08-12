@@ -60,7 +60,7 @@ TZOFFSETTO:-0500
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Unidos Por Venezuela
+SUMMARY:Unidos por los Nuestros
 DTSTART;TZID=America/New_York:20260816T180000
 DTEND;TZID=America/New_York:20260816T210000
 UID:e5c7e40b27489f77d77a9b55ceb3eb3389455a5e@kaseyacenter.com
@@ -359,6 +359,17 @@ DESCRIPTION:FUTTTURA World Tour\nTickets: https://www.ticketmaster.com/eve
  nfo: https://www.kaseyacenter.com/events/detail/tini-1
 LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
 URL:https://www.kaseyacenter.com/events/detail/tini-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minnesota Timberwolves vs Miami HEAT
+DTSTART;TZID=America/New_York:20261021T193000
+DTEND;TZID=America/New_York:20261021T223000
+UID:5f44d77bf29d27e94aa47d100921c085369e0f80@kaseyacenter.com
+DESCRIPTION:NBA Regular Season - Home Opener\nMore info: https://www.kasey
+ acenter.com/events/detail/minnesota-timberwolves-vs-miami-heat-14
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/minnesota-timberwolves-vs-m
+ iami-heat-14
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chayanne
