@@ -396,6 +396,17 @@ LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
 URL:https://www.kaseyacenter.com/events/detail/young-miko
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Indiana Pacers vs Miami HEAT
+DTSTART;TZID=America/New_York:20261030T200000
+DTEND;TZID=America/New_York:20261030T230000
+UID:5053c876ea460417c85d0d2f1bdb50ee83e7238e@kaseyacenter.com
+DESCRIPTION:NBA Cup Group Play\nMore info: https://www.kaseyacenter.com/ev
+ ents/detail/indiana-pacers-vs-miami-heat-21
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/indiana-pacers-vs-miami-hea
+ t-21
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:EROS RAMAZZOTTI
 DTSTART;TZID=America/New_York:20261031T200000
 DTEND;TZID=America/New_York:20261031T230000
@@ -432,6 +443,17 @@ DESCRIPTION:The Wourld Tour\nTickets: https://www.ticketmaster.com/event/0
  -1
 LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
 URL:https://www.kaseyacenter.com/events/detail/the-neighbourhood-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cleveland Cavaliers vs Miami HEAT
+DTSTART;TZID=America/New_York:20261113T200000
+DTEND;TZID=America/New_York:20261113T230000
+UID:f213c4a478c71818afaeec1a7b579ea84d48a7ef@kaseyacenter.com
+DESCRIPTION:NBA Cup Group Play\nMore info: https://www.kaseyacenter.com/ev
+ ents/detail/cleveland-cavaliers-vs-miami-heat-26
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/cleveland-cavaliers-vs-miam
+ i-heat-26
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:John Summit
@@ -514,6 +536,17 @@ DESCRIPTION:Where The World Comes Together\nTickets: https://www.americabu
  seyacenter.com/events/detail/america-business-forum-1
 LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
 URL:https://www.kaseyacenter.com/events/detail/america-business-forum-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Antonio Spurs vs Miami HEAT
+DTSTART;TZID=America/New_York:20270215T170000
+DTEND;TZID=America/New_York:20270215T200000
+UID:5f572e0b4fe1fa98cfeaad7ddcdec522094d71bc@kaseyacenter.com
+DESCRIPTION:NBA Regular Season\nMore info: https://www.kaseyacenter.com/ev
+ ents/detail/san-antonio-spurs-vs-miami-heat-16
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/san-antonio-spurs-vs-miami-
+ heat-16
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Don Omar
