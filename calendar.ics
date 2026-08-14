@@ -365,11 +365,27 @@ SUMMARY:Minnesota Timberwolves vs Miami HEAT
 DTSTART;TZID=America/New_York:20261021T193000
 DTEND;TZID=America/New_York:20261021T223000
 UID:5f44d77bf29d27e94aa47d100921c085369e0f80@kaseyacenter.com
-DESCRIPTION:NBA Regular Season - Home Opener\nMore info: https://www.kasey
- acenter.com/events/detail/minnesota-timberwolves-vs-miami-heat-14
+DESCRIPTION:NBA Regular Season - Home Opener\nTickets: https://www.ticketm
+ aster.com/event/0D00650C8C083749?CAMEFROM=CFC_HEAT_KCCOM&promo_id=kcdotcom
+ &promo_name=on-sale&promo_creative=button&promo_position=event_details\nMo
+ re info: https://www.kaseyacenter.com/events/detail/minnesota-timberwolves
+ -vs-miami-heat-14
 LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
 URL:https://www.kaseyacenter.com/events/detail/minnesota-timberwolves-vs-m
  iami-heat-14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Detroit Pistons vs Miami HEAT
+DTSTART;TZID=America/New_York:20261023T200000
+DTEND;TZID=America/New_York:20261023T230000
+UID:02dbaea385c9244de958c673bcec433432dc3a3d@kaseyacenter.com
+DESCRIPTION:NBA Regular Season\nTickets: https://www.ticketmaster.com/even
+ t/0D00650C8C0D3750?CAMEFROM=CFC_HEAT_KCCOM&promo_id=kcdotcom&promo_name=on
+ -sale&promo_creative=button&promo_position=event_details\nMore info: https
+ ://www.kaseyacenter.com/events/detail/detroit-pistons-vs-miami-heat-22
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/detroit-pistons-vs-miami-he
+ at-22
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chayanne
@@ -382,6 +398,19 @@ DESCRIPTION:Bailemos Otra Vez Tour\nTickets: https://www.ticketmaster.com/
  nMore info: https://www.kaseyacenter.com/events/detail/chayanne-3
 LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
 URL:https://www.kaseyacenter.com/events/detail/chayanne-3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dallas Mavericks vs Miami HEAT
+DTSTART;TZID=America/New_York:20261026T193000
+DTEND;TZID=America/New_York:20261026T223000
+UID:cf1c0c7862cfef73c67ceb5cb6470d2940dc4d24@kaseyacenter.com
+DESCRIPTION:NBA Regular Season\nTickets: https://www.ticketmaster.com/even
+ t/0D00650C8E8E3B23?CAMEFROM=CFC_HEAT_KCCOM&promo_id=kcdotcom&promo_name=on
+ -sale&promo_creative=button&promo_position=event_details\nMore info: https
+ ://www.kaseyacenter.com/events/detail/dallas-mavericks-vs-miami-heat-12
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/dallas-mavericks-vs-miami-h
+ eat-12
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Young Miko
@@ -400,8 +429,10 @@ SUMMARY:Indiana Pacers vs Miami HEAT
 DTSTART;TZID=America/New_York:20261030T200000
 DTEND;TZID=America/New_York:20261030T230000
 UID:5053c876ea460417c85d0d2f1bdb50ee83e7238e@kaseyacenter.com
-DESCRIPTION:NBA Cup Group Play\nMore info: https://www.kaseyacenter.com/ev
- ents/detail/indiana-pacers-vs-miami-heat-21
+DESCRIPTION:NBA Cup Group Play\nTickets: https://www.ticketmaster.com/even
+ t/0D00650C8C12375A?CAMEFROM=CFC_HEAT_KCCOM&promo_id=kcdotcom&promo_name=on
+ -sale&promo_creative=button&promo_position=event_details\nMore info: https
+ ://www.kaseyacenter.com/events/detail/indiana-pacers-vs-miami-heat-21
 LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
 URL:https://www.kaseyacenter.com/events/detail/indiana-pacers-vs-miami-hea
  t-21
@@ -449,11 +480,52 @@ SUMMARY:Cleveland Cavaliers vs Miami HEAT
 DTSTART;TZID=America/New_York:20261113T200000
 DTEND;TZID=America/New_York:20261113T230000
 UID:f213c4a478c71818afaeec1a7b579ea84d48a7ef@kaseyacenter.com
-DESCRIPTION:NBA Cup Group Play\nMore info: https://www.kaseyacenter.com/ev
- ents/detail/cleveland-cavaliers-vs-miami-heat-26
+DESCRIPTION:NBA Cup Group Play\nTickets: https://www.ticketmaster.com/even
+ t/0D00650C8C17375F?CAMEFROM=CFC_HEAT_KCCOM&promo_id=kcdotcom&promo_name=on
+ -sale&promo_creative=button&promo_position=event_details\nMore info: https
+ ://www.kaseyacenter.com/events/detail/cleveland-cavaliers-vs-miami-heat-26
 LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
 URL:https://www.kaseyacenter.com/events/detail/cleveland-cavaliers-vs-miam
  i-heat-26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Detroit Pistons vs Miami HEAT
+DTSTART;TZID=America/New_York:20261114T200000
+DTEND;TZID=America/New_York:20261114T230000
+UID:6611d600963e9608c73671225c8e2fdd413d031d@kaseyacenter.com
+DESCRIPTION:NBA Regular Season\nTickets: https://www.ticketmaster.com/even
+ t/0D00650C8C1C376C?CAMEFROM=CFC_HEAT_KCCOM&promo_id=kcdotcom&promo_name=on
+ -sale&promo_creative=button&promo_position=event_details\nMore info: https
+ ://www.kaseyacenter.com/events/detail/detroit-pistons-vs-miami-heat-23
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/detroit-pistons-vs-miami-he
+ at-23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Rockets vs Miami HEAT
+DTSTART;TZID=America/New_York:20261116T193000
+DTEND;TZID=America/New_York:20261116T223000
+UID:d36f693706f704602ce6b2be33812ec948da6c04@kaseyacenter.com
+DESCRIPTION:NBA Regular Season\nTickets: https://www.ticketmaster.com/even
+ t/0D00650C8E933B3A?CAMEFROM=CFC_HEAT_KCCOM&promo_id=kcdotcom&promo_name=on
+ -sale&promo_creative=button&promo_position=event_details\nMore info: https
+ ://www.kaseyacenter.com/events/detail/houston-rockets-vs-miami-heat-14
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/houston-rockets-vs-miami-he
+ at-14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Milwaukee Bucks vs Miami HEAT
+DTSTART;TZID=America/New_York:20261118T190000
+DTEND;TZID=America/New_York:20261118T220000
+UID:67f74e5c64208830cc4f6c30a990bceec022237c@kaseyacenter.com
+DESCRIPTION:NBA Regular Season\nTickets: https://www.ticketmaster.com/even
+ t/0D00650C8D3A38C3?CAMEFROM=CFC_HEAT_KCCOM&promo_id=kcdotcom&promo_name=on
+ -sale&promo_creative=button&promo_position=event_details\nMore info: https
+ ://www.kaseyacenter.com/events/detail/milwaukee-bucks-vs-miami-heat-19
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/milwaukee-bucks-vs-miami-he
+ at-19
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:John Summit
@@ -478,6 +550,46 @@ DESCRIPTION:CTRL Escape Tour\nTickets: https://www.ticketmaster.com/event/
  re info: https://www.kaseyacenter.com/events/detail/john-summit
 LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
 URL:https://www.kaseyacenter.com/events/detail/john-summit
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oklahoma City Thunder vs Miami HEAT
+DTSTART;TZID=America/New_York:20261122T180000
+DTEND;TZID=America/New_York:20261122T210000
+UID:2553dfddf27298a625c5d4310f4913874d50e1bf@kaseyacenter.com
+DESCRIPTION:NBA Regular Season\nTickets: https://www.ticketmaster.com/even
+ t/0D00650C8C8637E7?CAMEFROM=CFC_HEAT_KCCOM&promo_id=kcdotcom&promo_name=on
+ -sale&promo_creative=button&promo_position=event_details\nMore info: https
+ ://www.kaseyacenter.com/events/detail/oklahoma-city-thunder-vs-miami-heat-
+ 9
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/oklahoma-city-thunder-vs-mi
+ ami-heat-9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atlanta Hawks vs Miami HEAT
+DTSTART;TZID=America/New_York:20261201T193000
+DTEND;TZID=America/New_York:20261201T223000
+UID:11e476813772d68343991199be446cbf594d2449@kaseyacenter.com
+DESCRIPTION:NBA Regular Season\nTickets: https://www.ticketmaster.com/even
+ t/0D00650C8E983B49?CAMEFROM=CFC_HEAT_KCCOM&promo_id=kcdotcom&promo_name=on
+ -sale&promo_creative=button&promo_position=event_details\nMore info: https
+ ://www.kaseyacenter.com/events/detail/atlanta-hawks-vs-miami-heat-30
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/atlanta-hawks-vs-miami-heat
+ -30
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Washington Wizards vs Miami HEAT
+DTSTART;TZID=America/New_York:20261203T193000
+DTEND;TZID=America/New_York:20261203T223000
+UID:aed400c83bb00ee44e96046654925c8aebe38dd9@kaseyacenter.com
+DESCRIPTION:NBA Regular Season\nTickets: https://www.ticketmaster.com/even
+ t/0D00650C8E9D3B56?CAMEFROM=CFC_HEAT_KCCOM&promo_id=kcdotcom&promo_name=on
+ -sale&promo_creative=button&promo_position=event_details\nMore info: https
+ ://www.kaseyacenter.com/events/detail/washington-wizards-vs-miami-heat-24
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/washington-wizards-vs-miami
+ -heat-24
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:RAWAYANA
@@ -516,6 +628,19 @@ LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
 URL:https://www.kaseyacenter.com/events/detail/gente-de-zona
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:New York Knicks vs Miami HEAT
+DTSTART;TZID=America/New_York:20261212T203000
+DTEND;TZID=America/New_York:20261212T233000
+UID:8500bf1e8cdb00e4555853f809241fb787711376@kaseyacenter.com
+DESCRIPTION:NBA Regular Season\nTickets: https://www.ticketmaster.com/even
+ t/0D00650C881532B0?CAMEFROM=CFC_HEAT_KCCOM&promo_id=kcdotcom&promo_name=on
+ -sale&promo_creative=button&promo_position=event_details\nMore info: https
+ ://www.kaseyacenter.com/events/detail/new-york-knicks-vs-miami-heat-20
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/new-york-knicks-vs-miami-he
+ at-20
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:America Business Forum
 DTSTART;TZID=America/New_York:20261216T100000
 DTEND;TZID=America/New_York:20261216T130000
@@ -538,15 +663,280 @@ LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
 URL:https://www.kaseyacenter.com/events/detail/america-business-forum-1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Los Angeles Clippers vs Miami HEAT
+DTSTART;TZID=America/New_York:20261218T190000
+DTEND;TZID=America/New_York:20261218T220000
+UID:1f5def2b4be8ae76111fcb2521cbfd42aa2c25a3@kaseyacenter.com
+DESCRIPTION:NBA Regular Season\nTickets: https://www.ticketmaster.com/even
+ t/0D00650C8D3438B8?CAMEFROM=CFC_HEAT_KCCOM&promo_id=kcdotcom&promo_name=on
+ -sale&promo_creative=button&promo_position=event_details\nMore info: https
+ ://www.kaseyacenter.com/events/detail/los-angeles-clippers-vs-miami-heat-8
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/los-angeles-clippers-vs-mia
+ mi-heat-8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sacramento Kings vs Miami HEAT
+DTSTART;TZID=America/New_York:20261220T180000
+DTEND;TZID=America/New_York:20261220T210000
+UID:c1974c97a03d7c831378a17623432d5d45348297@kaseyacenter.com
+DESCRIPTION:NBA Regular Season\nTickets: https://www.ticketmaster.com/even
+ t/0D00650C8EA23B5D?CAMEFROM=CFC_HEAT_KCCOM&promo_id=kcdotcom&promo_name=on
+ -sale&promo_creative=button&promo_position=event_details\nMore info: https
+ ://www.kaseyacenter.com/events/detail/sacramento-kings-vs-miami-heat-11
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/sacramento-kings-vs-miami-h
+ eat-11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Bulls vs Miami HEAT
+DTSTART;TZID=America/New_York:20261221T193000
+DTEND;TZID=America/New_York:20261221T223000
+UID:a1fedd0e021a907e2c118e5f646e3f865a3fcd86@kaseyacenter.com
+DESCRIPTION:NBA Regular Season\nTickets: https://www.ticketmaster.com/even
+ t/0D00650C8D2F38AE?CAMEFROM=CFC_HEAT_KCCOM&promo_id=kcdotcom&promo_name=on
+ -sale&promo_creative=button&promo_position=event_details\nMore info: https
+ ://www.kaseyacenter.com/events/detail/chicago-bulls-vs-miami-heat-21
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/chicago-bulls-vs-miami-heat
+ -21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Bulls vs Miami HEAT
+DTSTART;TZID=America/New_York:20261223T193000
+DTEND;TZID=America/New_York:20261223T223000
+UID:9d8954b6fe6fe4e30ff723a15d4ed9f6f6deedfd@kaseyacenter.com
+DESCRIPTION:NBA Regular Season\nTickets: https://www.ticketmaster.com/even
+ t/0D00650C8C213777?CAMEFROM=CFC_HEAT_KCCOM&promo_id=kcdotcom&promo_name=on
+ -sale&promo_creative=button&promo_position=event_details\nMore info: https
+ ://www.kaseyacenter.com/events/detail/chicago-bulls-vs-miami-heat-22
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/chicago-bulls-vs-miami-heat
+ -22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Charlotte Hornets vs Miami HEAT
+DTSTART;TZID=America/New_York:20261227T180000
+DTEND;TZID=America/New_York:20261227T210000
+UID:22752fe216bff5ffb7f19c62beac7d70f3252c3d@kaseyacenter.com
+DESCRIPTION:NBA Regular Season\nTickets: https://www.ticketmaster.com/even
+ t/0D00650C8C26377D?CAMEFROM=CFC_HEAT_KCCOM&promo_id=kcdotcom&promo_name=on
+ -sale&promo_creative=button&promo_position=event_details\nMore info: https
+ ://www.kaseyacenter.com/events/detail/charlotte-hornets-vs-miami-heat-27
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/charlotte-hornets-vs-miami-
+ heat-27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Memphis Grizzlies vs Miami HEAT
+DTSTART;TZID=America/New_York:20270105T193000
+DTEND;TZID=America/New_York:20270105T223000
+UID:ce9a1afcf9c9663137d5cdb28c1d18026f5e4ccc@kaseyacenter.com
+DESCRIPTION:NBA Regular Season\nTickets: https://www.ticketmaster.com/even
+ t/0D00650C8E563A9A?CAMEFROM=CFC_HEAT_KCCOM&promo_id=kcdotcom&promo_name=on
+ -sale&promo_creative=button&promo_position=event_details\nMore info: https
+ ://www.kaseyacenter.com/events/detail/memphis-grizzlies-vs-miami-heat-14
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/memphis-grizzlies-vs-miami-
+ heat-14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Orleans Pelicans vs Miami HEAT
+DTSTART;TZID=America/New_York:20270110T180000
+DTEND;TZID=America/New_York:20270110T210000
+UID:0922207fbde1c8389aa9883c70ef10e4fb50c2e0@kaseyacenter.com
+DESCRIPTION:NBA Regular Season\nTickets: https://www.ticketmaster.com/even
+ t/0D00650C8D3F38C7?CAMEFROM=CFC_HEAT_KCCOM&promo_id=kcdotcom&promo_name=on
+ -sale&promo_creative=button&promo_position=event_details\nMore info: https
+ ://www.kaseyacenter.com/events/detail/new-orleans-pelicans-vs-miami-heat-1
+ 5
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/new-orleans-pelicans-vs-mia
+ mi-heat-15
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brooklyn Nets vs Miami HEAT
+DTSTART;TZID=America/New_York:20270112T193000
+DTEND;TZID=America/New_York:20270112T223000
+UID:ecb9757b415d868e7560e5314ca50635aa4b13de@kaseyacenter.com
+DESCRIPTION:NBA Regular Season\nTickets: https://www.ticketmaster.com/even
+ t/0D00650C8E5C3AA3?CAMEFROM=CFC_HEAT_KCCOM&promo_id=kcdotcom&promo_name=on
+ -sale&promo_creative=button&promo_position=event_details\nMore info: https
+ ://www.kaseyacenter.com/events/detail/brooklyn-nets-vs-miami-heat-21
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/brooklyn-nets-vs-miami-heat
+ -21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Golden State Warriors vs Miami HEAT
+DTSTART;TZID=America/New_York:20270117T180000
+DTEND;TZID=America/New_York:20270117T210000
+UID:8cff946c7ce7b23c45579ad181fc9ed06d880cba@kaseyacenter.com
+DESCRIPTION:NBA Regular Season\nTickets: https://www.ticketmaster.com/even
+ t/0D00650C8C6D37BB?CAMEFROM=CFC_HEAT_KCCOM&promo_id=kcdotcom&promo_name=on
+ -sale&promo_creative=button&promo_position=event_details\nMore info: https
+ ://www.kaseyacenter.com/events/detail/golden-state-warriors-vs-miami-heat-
+ 12
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/golden-state-warriors-vs-mi
+ ami-heat-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Portland Trail Blazers vs Miami HEAT
+DTSTART;TZID=America/New_York:20270119T193000
+DTEND;TZID=America/New_York:20270119T223000
+UID:aa227dad715ec4bfffb92be8bec20b8b7e182937@kaseyacenter.com
+DESCRIPTION:NBA Regular Season\nTickets: https://www.ticketmaster.com/even
+ t/0D00650C8E613AB1?CAMEFROM=CFC_HEAT_KCCOM&promo_id=kcdotcom&promo_name=on
+ -sale&promo_creative=button&promo_position=event_details\nMore info: https
+ ://www.kaseyacenter.com/events/detail/portland-trail-blazers-vs-miami-heat
+ -8
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/portland-trail-blazers-vs-m
+ iami-heat-8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atlanta Hawks vs Miami HEAT
+DTSTART;TZID=America/New_York:20270123T200000
+DTEND;TZID=America/New_York:20270123T230000
+UID:ce19f53b004a969c4273f56ad28e3e379c3ca7c3@kaseyacenter.com
+DESCRIPTION:NBA Regular Season\nTickets: https://www.ticketmaster.com/even
+ t/0D00650C8BF4372D?CAMEFROM=CFC_HEAT_KCCOM&promo_id=kcdotcom&promo_name=on
+ -sale&promo_creative=button&promo_position=event_details\nMore info: https
+ ://www.kaseyacenter.com/events/detail/atlanta-hawks-vs-miami-heat-31
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/atlanta-hawks-vs-miami-heat
+ -31
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philadelphia 76ers vs Miami HEAT
+DTSTART;TZID=America/New_York:20270130T123000
+DTEND;TZID=America/New_York:20270130T153000
+UID:e7e75bca9c02aeba49c3751e3adf1259f9f14044@kaseyacenter.com
+DESCRIPTION:NBA Regular Season\nTickets: https://www.ticketmaster.com/even
+ t/0D00650C880932A2?CAMEFROM=CFC_HEAT_KCCOM&promo_id=kcdotcom&promo_name=on
+ -sale&promo_creative=button&promo_position=event_details\nMore info: https
+ ://www.kaseyacenter.com/events/detail/philadelphia-76ers-vs-miami-heat-21
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/philadelphia-76ers-vs-miami
+ -heat-21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Charlotte Hornets vs Miami HEAT
+DTSTART;TZID=America/New_York:20270202T193000
+DTEND;TZID=America/New_York:20270202T223000
+UID:54bc2ef1e18870a832a4b3df0887c76e493c8021@kaseyacenter.com
+DESCRIPTION:NBA Regular Season\nTickets: https://www.ticketmaster.com/even
+ t/0D00650C8E663AB9?CAMEFROM=CFC_HEAT_KCCOM&promo_id=kcdotcom&promo_name=on
+ -sale&promo_creative=button&promo_position=event_details\nMore info: https
+ ://www.kaseyacenter.com/events/detail/charlotte-hornets-vs-miami-heat-28
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/charlotte-hornets-vs-miami-
+ heat-28
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Milwaukee Bucks vs Miami HEAT
+DTSTART;TZID=America/New_York:20270204T193000
+DTEND;TZID=America/New_York:20270204T223000
+UID:4474812da9bb19746e15f0911e7a7b884d5cf7e6@kaseyacenter.com
+DESCRIPTION:NBA Regular Season\nTickets: https://www.ticketmaster.com/even
+ t/0D00650C8E6B3AC5?CAMEFROM=CFC_HEAT_KCCOM&promo_id=kcdotcom&promo_name=on
+ -sale&promo_creative=button&promo_position=event_details\nMore info: https
+ ://www.kaseyacenter.com/events/detail/milwaukee-bucks-vs-miami-heat-20
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/milwaukee-bucks-vs-miami-he
+ at-20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brooklyn Nets vs Miami HEAT
+DTSTART;TZID=America/New_York:20270214T130000
+DTEND;TZID=America/New_York:20270214T160000
+UID:bf9e345d2d148bc2c8a340e3ba932866416b6ddc@kaseyacenter.com
+DESCRIPTION:NBA Regular Season\nTickets: https://www.ticketmaster.com/even
+ t/0D00650C8E703ACC?CAMEFROM=CFC_HEAT_KCCOM&promo_id=kcdotcom&promo_name=on
+ -sale&promo_creative=button&promo_position=event_details\nMore info: https
+ ://www.kaseyacenter.com/events/detail/brooklyn-nets-vs-miami-heat-22
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/brooklyn-nets-vs-miami-heat
+ -22
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:San Antonio Spurs vs Miami HEAT
 DTSTART;TZID=America/New_York:20270215T170000
 DTEND;TZID=America/New_York:20270215T200000
 UID:5f572e0b4fe1fa98cfeaad7ddcdec522094d71bc@kaseyacenter.com
-DESCRIPTION:NBA Regular Season\nMore info: https://www.kaseyacenter.com/ev
- ents/detail/san-antonio-spurs-vs-miami-heat-16
+DESCRIPTION:NBA Regular Season\nTickets: https://www.ticketmaster.com/even
+ t/0D00650C8C7237C5?CAMEFROM=CFC_HEAT_KCCOM&promo_id=kcdotcom&promo_name=on
+ -sale&promo_creative=button&promo_position=event_details\nMore info: https
+ ://www.kaseyacenter.com/events/detail/san-antonio-spurs-vs-miami-heat-16
 LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
 URL:https://www.kaseyacenter.com/events/detail/san-antonio-spurs-vs-miami-
  heat-16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Toronto Raptors vs Miami HEAT
+DTSTART;TZID=America/New_York:20270302T193000
+DTEND;TZID=America/New_York:20270302T223000
+UID:1aee99ec568d4b60b53b9f42e6e1c19eaf68383f@kaseyacenter.com
+DESCRIPTION:NBA Regular Season\nTickets: https://www.ticketmaster.com/even
+ t/0D00650C8E753AD4?CAMEFROM=CFC_HEAT_KCCOM&promo_id=kcdotcom&promo_name=on
+ -sale&promo_creative=button&promo_position=event_details\nMore info: https
+ ://www.kaseyacenter.com/events/detail/toronto-raptors-vs-miami-heat-23
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/toronto-raptors-vs-miami-he
+ at-23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Toronto Raptors vs Miami HEAT
+DTSTART;TZID=America/New_York:20270303T193000
+DTEND;TZID=America/New_York:20270303T223000
+UID:c197cafedd93bec5a4e816a74ca322f887b918bf@kaseyacenter.com
+DESCRIPTION:NBA Regular Season\nTickets: https://www.ticketmaster.com/even
+ t/0D00650C8E7A3ADE?CAMEFROM=CFC_HEAT_KCCOM&promo_id=kcdotcom&promo_name=on
+ -sale&promo_creative=button&promo_position=event_details\nMore info: https
+ ://www.kaseyacenter.com/events/detail/toronto-raptors-vs-miami-heat-24
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/toronto-raptors-vs-miami-he
+ at-24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indiana Pacers vs Miami HEAT
+DTSTART;TZID=America/New_York:20270306T150000
+DTEND;TZID=America/New_York:20270306T180000
+UID:fb1a945cb314b5e427aa7830dd7edbcd8742395c@kaseyacenter.com
+DESCRIPTION:NBA Regular Season\nTickets: https://www.ticketmaster.com/even
+ t/0D00650C8BF93735?CAMEFROM=CFC_HEAT_KCCOM&promo_id=kcdotcom&promo_name=on
+ -sale&promo_creative=button&promo_position=event_details\nMore info: https
+ ://www.kaseyacenter.com/events/detail/indiana-pacers-vs-miami-heat-22
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/indiana-pacers-vs-miami-hea
+ t-22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Phoenix Suns vs Miami HEAT
+DTSTART;TZID=America/New_York:20270308T193000
+DTEND;TZID=America/New_York:20270308T223000
+UID:fd218eb19f9c0dcec4bd869a47477220e0a8a733@kaseyacenter.com
+DESCRIPTION:NBA Regular Season\nTickets: https://www.ticketmaster.com/even
+ t/0D00650C8E7F3AEF?CAMEFROM=CFC_HEAT_KCCOM&promo_id=kcdotcom&promo_name=on
+ -sale&promo_creative=button&promo_position=event_details\nMore info: https
+ ://www.kaseyacenter.com/events/detail/phoenix-suns-vs-miami-heat-12
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/phoenix-suns-vs-miami-heat-
+ 12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orlando Magic vs Miami HEAT
+DTSTART;TZID=America/New_York:20270310T190000
+DTEND;TZID=America/New_York:20270310T220000
+UID:fe7e2732659354caf697b088175b8c36111d7aec@kaseyacenter.com
+DESCRIPTION:NBA Regular Season\nTickets: https://www.ticketmaster.com/even
+ t/0D00650C8E833AF7?CAMEFROM=CFC_HEAT_KCCOM&promo_id=kcdotcom&promo_name=on
+ -sale&promo_creative=button&promo_position=event_details\nMore info: https
+ ://www.kaseyacenter.com/events/detail/orlando-magic-vs-miami-heat-25
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/orlando-magic-vs-miami-heat
+ -25
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Don Omar
@@ -571,5 +961,95 @@ DESCRIPTION:YEM World Tour 2027\nTickets: https://www.ticketmaster.com/eve
  info: https://www.kaseyacenter.com/events/detail/morat-1
 LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
 URL:https://www.kaseyacenter.com/events/detail/morat-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Denver Nuggets vs Miami HEAT
+DTSTART;TZID=America/New_York:20270321T180000
+DTEND;TZID=America/New_York:20270321T210000
+UID:f9119d973362d5a9f8f9ea7152e009fa27227023@kaseyacenter.com
+DESCRIPTION:NBA Regular Season\nTickets: https://www.ticketmaster.com/even
+ t/0D00650C8C7737CD?CAMEFROM=CFC_HEAT_KCCOM&promo_id=kcdotcom&promo_name=on
+ -sale&promo_creative=button&promo_position=event_details\nMore info: https
+ ://www.kaseyacenter.com/events/detail/denver-nuggets-vs-miami-heat-12
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/denver-nuggets-vs-miami-hea
+ t-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Angeles Lakers vs Miami HEAT
+DTSTART;TZID=America/New_York:20270323T200000
+DTEND;TZID=America/New_York:20270323T230000
+UID:a9df151c285636b2110b68b30440f1a94230ce77@kaseyacenter.com
+DESCRIPTION:NBA Regular Season\nTickets: https://www.ticketmaster.com/even
+ t/0D00650C8C7C37D5?CAMEFROM=CFC_HEAT_KCCOM&promo_id=kcdotcom&promo_name=on
+ -sale&promo_creative=button&promo_position=event_details\nMore info: https
+ ://www.kaseyacenter.com/events/detail/los-angeles-lakers-vs-miami-heat-9
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/los-angeles-lakers-vs-miami
+ -heat-9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Utah Jazz vs Miami HEAT
+DTSTART;TZID=America/New_York:20270325T193000
+DTEND;TZID=America/New_York:20270325T223000
+UID:56e8b31ba63e029f105cf356c6b8ed21345b668b@kaseyacenter.com
+DESCRIPTION:NBA Regular Season\nTickets: https://www.ticketmaster.com/even
+ t/0D00650C8BFE373E?CAMEFROM=CFC_HEAT_KCCOM&promo_id=kcdotcom&promo_name=on
+ -sale&promo_creative=button&promo_position=event_details\nMore info: https
+ ://www.kaseyacenter.com/events/detail/utah-jazz-vs-miami-heat-12
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/utah-jazz-vs-miami-heat-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston Celtics vs Miami HEAT
+DTSTART;TZID=America/New_York:20270327T200000
+DTEND;TZID=America/New_York:20270327T230000
+UID:e011f88b4867cd54cc1e0389d7c4f26283ef2a53@kaseyacenter.com
+DESCRIPTION:NBA Regular Season\nTickets: https://www.ticketmaster.com/even
+ t/0D00650C8C8137DB?CAMEFROM=CFC_HEAT_KCCOM&promo_id=kcdotcom&promo_name=on
+ -sale&promo_creative=button&promo_position=event_details\nMore info: https
+ ://www.kaseyacenter.com/events/detail/boston-celtics-vs-miami-heat-29
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/boston-celtics-vs-miami-hea
+ t-29
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philadelphia 76ers vs Miami HEAT
+DTSTART;TZID=America/New_York:20270408T190000
+DTEND;TZID=America/New_York:20270408T220000
+UID:da55b9adb4c6df603dda0f176186ee431824c8fc@kaseyacenter.com
+DESCRIPTION:NBA Regular Season\nTickets: https://www.ticketmaster.com/even
+ t/0D00650C881032AB?CAMEFROM=CFC_HEAT_KCCOM&promo_id=kcdotcom&promo_name=on
+ -sale&promo_creative=button&promo_position=event_details\nMore info: https
+ ://www.kaseyacenter.com/events/detail/philadelphia-76ers-vs-miami-heat-22
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/philadelphia-76ers-vs-miami
+ -heat-22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Washington Wizards vs Miami HEAT
+DTSTART;TZID=America/New_York:20270409T200000
+DTEND;TZID=America/New_York:20270409T230000
+UID:43f21b15b7e17a45bdd02e928d268d0241e3c7ef@kaseyacenter.com
+DESCRIPTION:NBA Regular Season\nTickets: https://www.ticketmaster.com/even
+ t/0D00650C8C033740?CAMEFROM=CFC_HEAT_KCCOM&promo_id=kcdotcom&promo_name=on
+ -sale&promo_creative=button&promo_position=event_details\nMore info: https
+ ://www.kaseyacenter.com/events/detail/washington-wizards-vs-miami-heat-25
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/washington-wizards-vs-miami
+ -heat-25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orlando Magic vs Miami HEAT
+DTSTART;TZID=America/New_York:20270411T180000
+DTEND;TZID=America/New_York:20270411T210000
+UID:056d50a83a58167847f14104ad04018a0163134b@kaseyacenter.com
+DESCRIPTION:NBA Regular Season\nTickets: https://www.ticketmaster.com/even
+ t/0D00650C8E893B16?CAMEFROM=CFC_HEAT_KCCOM&promo_id=kcdotcom&promo_name=on
+ -sale&promo_creative=button&promo_position=event_details\nMore info: https
+ ://www.kaseyacenter.com/events/detail/orlando-magic-vs-miami-heat-26
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/orlando-magic-vs-miami-heat
+ -26
 END:VEVENT
 END:VCALENDAR
