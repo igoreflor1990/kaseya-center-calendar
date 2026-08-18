@@ -247,6 +247,19 @@ LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
 URL:https://www.kaseyacenter.com/events/detail/don-omar-1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Jonas Brothers
+DTSTART;TZID=America/New_York:20261005T193000
+DTEND;TZID=America/New_York:20261005T223000
+UID:6915ee1f54c7a8e1ce874ab4447d6c57ec3168e4@kaseyacenter.com
+DESCRIPTION:Burning Up Tour All Over Again\nTickets: https://www.ticketmas
+ ter.com/event/0D00650C15C53D08?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcd
+ otcom&promo_name=jonas-brothers_2026&promo_creative=button&promo_position=
+ event_details\nMore info: https://www.kaseyacenter.com/events/detail/jonas
+ -brothers-2
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/jonas-brothers-2
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Red\, White & Pink Game
 DTSTART;TZID=America/New_York:20261006T183000
 DTEND;TZID=America/New_York:20261006T213000
