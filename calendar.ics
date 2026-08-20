@@ -229,8 +229,8 @@ DTEND;TZID=America/New_York:20261003T230000
 UID:350ce5658b7b2d97a8c13ce4872aeda0c4b0a3ec@kaseyacenter.com
 DESCRIPTION:Puerta Abierta Tour\nTickets: https://www.ticketmaster.com/eve
  nt/0D006488B386B2C2?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo
- _name=kany-garcia_2026&promo_creative=button&promo_position=event_details\
- nMore info: https://www.kaseyacenter.com/events/detail/kany-garcia-1
+ _name=kany-garcia_2026&promo_creative=button&promo_position=event_details
+ \nMore info: https://www.kaseyacenter.com/events/detail/kany-garcia-1
 LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
 URL:https://www.kaseyacenter.com/events/detail/kany-garcia-1
 END:VEVENT
@@ -264,11 +264,11 @@ SUMMARY:Red\, White & Pink Game
 DTSTART;TZID=America/New_York:20261006T183000
 DTEND;TZID=America/New_York:20261006T213000
 UID:a5603a2092920719ef0bed93623d54060a2214cb@kaseyacenter.com
-DESCRIPTION:Presented By Baptist Health Herbert Wertheim Cancer Institute\
- nTickets: https://www.ticketmaster.com/event/0D0064FDD6DC869B?CAMEFROM=CFC
- _601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_name=rwp26&promo_creative=butto
- n&promo_position=event_details\nMore info: https://www.kaseyacenter.com/ev
- ents/detail/red-white-pink-game-3
+DESCRIPTION:Presented By Baptist Health Herbert Wertheim Cancer Institute
+ \nTickets: https://www.ticketmaster.com/event/0D0064FDD6DC869B?CAMEFROM=CF
+ C_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_name=rwp26&promo_creative=butt
+ on&promo_position=event_details\nMore info: https://www.kaseyacenter.com/e
+ vents/detail/red-white-pink-game-3
 LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
 URL:https://www.kaseyacenter.com/events/detail/red-white-pink-game-3
 END:VEVENT
@@ -407,8 +407,8 @@ DTEND;TZID=America/New_York:20261024T230000
 UID:7a08c22b170599cce4df63d5d08933d592afc73c@kaseyacenter.com
 DESCRIPTION:Bailemos Otra Vez Tour\nTickets: https://www.ticketmaster.com/
  event/0D00646A64C11EFD?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&pr
- omo_name=chayanne_2026&promo_creative=button&promo_position=event_details\
- nMore info: https://www.kaseyacenter.com/events/detail/chayanne-3
+ omo_name=chayanne_2026&promo_creative=button&promo_position=event_details
+ \nMore info: https://www.kaseyacenter.com/events/detail/chayanne-3
 LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
 URL:https://www.kaseyacenter.com/events/detail/chayanne-3
 END:VEVENT
