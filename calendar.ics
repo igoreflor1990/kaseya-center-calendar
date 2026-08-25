@@ -290,10 +290,10 @@ SUMMARY:Camilo
 DTSTART;TZID=America/New_York:20261009T200000
 DTEND;TZID=America/New_York:20261009T230000
 UID:896699a14227da5e83a062f758c552e26e8c531c@kaseyacenter.com
-DESCRIPTION:USA 2026 Tour\nTickets: https://www.ticketmaster.com/event/0D0
- 06331BF132ABC?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_name=
- camilo_2026&promo_creative=button&promo_position=event_details\nMore info:
-  https://www.kaseyacenter.com/events/detail/camilo-1
+DESCRIPTION:Para cuando sean Mayores Tour\nTickets: https://www.ticketmast
+ er.com/event/0D006331BF132ABC?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdo
+ tcom&promo_name=camilo_2026&promo_creative=button&promo_position=event_det
+ ails\nMore info: https://www.kaseyacenter.com/events/detail/camilo-1
 LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
 URL:https://www.kaseyacenter.com/events/detail/camilo-1
 END:VEVENT
@@ -859,6 +859,18 @@ DESCRIPTION:NBA Regular Season\nTickets: https://www.ticketmaster.com/even
 LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
 URL:https://www.kaseyacenter.com/events/detail/milwaukee-bucks-vs-miami-he
  at-20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pablo Alborán
+DTSTART;TZID=America/New_York:20270206T200000
+DTEND;TZID=America/New_York:20270206T230000
+UID:51554bf28cfff1020ab50d0037a5e6cdc1377d71@kaseyacenter.com
+DESCRIPTION:Global Tour KM0\nTickets: https://www.ticketmaster.com/event/0
+ D00650D11FB2B92?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_nam
+ e=pablo-alboran_2027&promo_creative=button&promo_position=event_details\nM
+ ore info: https://www.kaseyacenter.com/events/detail/pablo-alboran-1
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/pablo-alboran-1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brooklyn Nets vs Miami HEAT
