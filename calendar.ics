@@ -91,20 +91,7 @@ DTSTART;TZID=America/New_York:20260829T200000
 DTEND;TZID=America/New_York:20260829T230000
 UID:94a0a896d930e601be5a57b63c375f87cb08e729@kaseyacenter.com
 DESCRIPTION:El Último Regreso Tour\nTickets: https://www.ticketmaster.com
- /event/0D00636ABC598360?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&p
- romo_name=ricardo-montaner_2026&promo_creative=button&promo_position=event
- _details\nMore info: https://www.kaseyacenter.com/events/detail/ricardo-mo
- ntaner-4
-LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
-URL:https://www.kaseyacenter.com/events/detail/ricardo-montaner-4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ricardo Montaner
-DTSTART;TZID=America/New_York:20260830T200000
-DTEND;TZID=America/New_York:20260830T230000
-UID:e8098ae2cee35704e78994511011b3387ec6c946@kaseyacenter.com
-DESCRIPTION:El Último Regreso Tour\nTickets: https://www.ticketmaster.com
- /event/0D00636ABC598360?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&p
+ /event/0D00635EE3E884F1?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&p
  romo_name=ricardo-montaner_2026&promo_creative=button&promo_position=event
  _details\nMore info: https://www.kaseyacenter.com/events/detail/ricardo-mo
  ntaner-4
@@ -449,19 +436,6 @@ DESCRIPTION:NBA Cup Group Play\nTickets: https://www.ticketmaster.com/even
 LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
 URL:https://www.kaseyacenter.com/events/detail/indiana-pacers-vs-miami-hea
  t-21
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EROS RAMAZZOTTI
-DTSTART;TZID=America/New_York:20261031T200000
-DTEND;TZID=America/New_York:20261031T230000
-UID:d1ed78c8d800c2b0270593e1c6807721614d2280@kaseyacenter.com
-DESCRIPTION:UNA HISTORIA IMPORTANTE\nTickets: https://www.ticketmaster.com
- /event/0D00628388B04C45?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&p
- romo_name=eros-ramazzotti_2026&promo_creative=button&promo_position=event_
- details\nMore info: https://www.kaseyacenter.com/events/detail/eros-ramazz
- otti-3
-LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
-URL:https://www.kaseyacenter.com/events/detail/eros-ramazzotti-3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Doja Cat
