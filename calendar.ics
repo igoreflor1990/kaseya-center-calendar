@@ -514,6 +514,20 @@ URL:https://www.kaseyacenter.com/events/detail/oklahoma-city-thunder-vs-mi
  ami-heat-9
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Nick Cannon Presents: Wild ‘N Out Live
+DTSTART;TZID=America/New_York:20261128T200000
+DTEND;TZID=America/New_York:20261128T230000
+UID:e8e3cc0d3b95a96a98fb3751b2443891985b25dd@kaseyacenter.com
+DESCRIPTION:Nick Cannon Presents: Wild ’N Out Live - The Next Generation
+ \nTickets: https://www.ticketmaster.com/event/0D0065299E107398?CAMEFROM=CF
+ C_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_name=nick-cannon-wild-n-out_20
+ 26&promo_creative=button&promo_position=event_details\nMore info: https://
+ www.kaseyacenter.com/events/detail/nick-cannon-presents-wild-n-out-live-1
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/nick-cannon-presents-wild-n
+ -out-live-1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Atlanta Hawks vs Miami HEAT
 DTSTART;TZID=America/New_York:20261201T193000
 DTEND;TZID=America/New_York:20261201T223000
@@ -909,6 +923,19 @@ DESCRIPTION:The Last King World Tour\nTickets:  https://www.ticketmaster.c
  ls\nMore info: https://www.kaseyacenter.com/events/detail/don-omar-2
 LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
 URL:https://www.kaseyacenter.com/events/detail/don-omar-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hans Zimmer
+DTSTART;TZID=America/New_York:20270313T200000
+DTEND;TZID=America/New_York:20270313T230000
+UID:00aabb77dbe76f0a1822b87500314701720883de@kaseyacenter.com
+DESCRIPTION:Hans Zimmer Live - The Next Level\nTickets: https://www.ticket
+ master.com/event/0D00652320A72ED0?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=
+ kcdotcom&promo_name=hans-zimmer_2027&promo_creative=button&promo_position=
+ event_details\nMore info: https://www.kaseyacenter.com/events/detail/hans-
+ zimmer
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/hans-zimmer
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Morat
