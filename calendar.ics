@@ -399,6 +399,58 @@ URL:https://www.kaseyacenter.com/events/detail/indiana-pacers-vs-miami-hea
  t-21
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tony Robbins
+DTSTART;TZID=America/New_York:20261105T190000
+DTEND;TZID=America/New_York:20261105T220000
+UID:aa9f2fa4de1ba1f3769a5cc3f58cda2bd508c79b@kaseyacenter.com
+DESCRIPTION:Unleash the Power Within\nTickets: https://www.tonyrobbins.com
+ /events/unleash-the-power-within/upw-november-2026?CAMEFROM=CFC_601BISCAYN
+ E_KCCOM&promo_id=kcdotcom&promo_name=tony-robbins_2026&promo_creative=butt
+ on&promo_position=event_details\nMore info: https://www.kaseyacenter.com/e
+ vents/detail/tony-robbins
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/tony-robbins
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tony Robbins
+DTSTART;TZID=America/New_York:20261106T190000
+DTEND;TZID=America/New_York:20261106T220000
+UID:41b2fdc8cab924e10bc6a641fd832c60f8109867@kaseyacenter.com
+DESCRIPTION:Unleash the Power Within\nTickets: https://www.tonyrobbins.com
+ /events/unleash-the-power-within/upw-november-2026?CAMEFROM=CFC_601BISCAYN
+ E_KCCOM&promo_id=kcdotcom&promo_name=tony-robbins_2026&promo_creative=butt
+ on&promo_position=event_details\nMore info: https://www.kaseyacenter.com/e
+ vents/detail/tony-robbins
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/tony-robbins
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tony Robbins
+DTSTART;TZID=America/New_York:20261107T190000
+DTEND;TZID=America/New_York:20261107T220000
+UID:1eb1c831406db632800cf3f58e9ed2705bc6c915@kaseyacenter.com
+DESCRIPTION:Unleash the Power Within\nTickets: https://www.tonyrobbins.com
+ /events/unleash-the-power-within/upw-november-2026?CAMEFROM=CFC_601BISCAYN
+ E_KCCOM&promo_id=kcdotcom&promo_name=tony-robbins_2026&promo_creative=butt
+ on&promo_position=event_details\nMore info: https://www.kaseyacenter.com/e
+ vents/detail/tony-robbins
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/tony-robbins
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tony Robbins
+DTSTART;TZID=America/New_York:20261108T190000
+DTEND;TZID=America/New_York:20261108T220000
+UID:5fa9ec2eee579c1e497b467a4beea706ff25ddb9@kaseyacenter.com
+DESCRIPTION:Unleash the Power Within\nTickets: https://www.tonyrobbins.com
+ /events/unleash-the-power-within/upw-november-2026?CAMEFROM=CFC_601BISCAYN
+ E_KCCOM&promo_id=kcdotcom&promo_name=tony-robbins_2026&promo_creative=butt
+ on&promo_position=event_details\nMore info: https://www.kaseyacenter.com/e
+ vents/detail/tony-robbins
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/tony-robbins
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Doja Cat
 DTSTART;TZID=America/New_York:20261111T193000
 DTEND;TZID=America/New_York:20261111T223000
