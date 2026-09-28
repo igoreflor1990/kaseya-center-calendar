@@ -690,6 +690,19 @@ URL:https://www.kaseyacenter.com/events/detail/los-angeles-clippers-vs-mia
  mi-heat-8
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ryan Castro
+DTSTART;TZID=America/New_York:20261219T203000
+DTEND;TZID=America/New_York:20261219T233000
+UID:e3ed0dc6f39a1b77d273074c1c7a7722c89597af@kaseyacenter.com
+DESCRIPTION:Los Chorros Con Richy Tour\nTickets: https://www.ticketmaster.
+ com/event/0D00653713DFF955?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotco
+ m&promo_name=ryan-castro_2026&promo_creative=button&promo_position=event_d
+ etails\nMore info: https://www.kaseyacenter.com/events/detail/ryan-castro-
+ 1
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/ryan-castro-1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sacramento Kings vs Miami HEAT
 DTSTART;TZID=America/New_York:20261220T180000
 DTEND;TZID=America/New_York:20261220T210000
