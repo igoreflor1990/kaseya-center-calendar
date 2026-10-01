@@ -60,117 +60,6 @@ TZOFFSETTO:-0500
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Juanes
-DTSTART;TZID=America/New_York:20260904T200000
-DTEND;TZID=America/New_York:20260904T230000
-UID:9313c4ad8b1c57f71330255639bb0e92161d8e68@kaseyacenter.com
-DESCRIPTION:World Tour 2026\nTickets: https://www.ticketmaster.com/event/0
- D00644C82656F1A?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_nam
- e=juanes_2026&promo_creative=button&promo_position=event_details\nMore inf
- o: https://www.kaseyacenter.com/events/detail/juanes-1
-LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
-URL:https://www.kaseyacenter.com/events/detail/juanes-1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Omar Courtz
-DTSTART;TZID=America/New_York:20260911T200000
-DTEND;TZID=America/New_York:20260911T230000
-UID:869e5cd79d4bdcc484c779163e1217548c87cd1f@kaseyacenter.com
-DESCRIPTION:Por Si Mañana No Estoy Tour\nTickets: https://www.ticketmaste
- r.com/event/0D006494AAAD946F?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdot
- com&promo_name=omar-courtz_2026&promo_creative=button&promo_position=event
- _details\nMore info: https://www.kaseyacenter.com/events/detail/omar-court
- z
-LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
-URL:https://www.kaseyacenter.com/events/detail/omar-courtz
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Omar Courtz
-DTSTART;TZID=America/New_York:20260912T200000
-DTEND;TZID=America/New_York:20260912T230000
-UID:491db856d70f36f0f1ba10c972158234a141ff17@kaseyacenter.com
-DESCRIPTION:Por Si Mañana No Estoy Tour\nTickets: https://www.ticketmaste
- r.com/event/0D006494AAAD946F?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdot
- com&promo_name=omar-courtz_2026&promo_creative=button&promo_position=event
- _details\nMore info: https://www.kaseyacenter.com/events/detail/omar-court
- z
-LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
-URL:https://www.kaseyacenter.com/events/detail/omar-courtz
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rosalía
-DTSTART;TZID=America/New_York:20260914T203000
-DTEND;TZID=America/New_York:20260914T233000
-UID:4de62f44fc7f89cb5d25643c553d9267fd4e808a@kaseyacenter.com
-DESCRIPTION:LUX Tour 2026\nTickets: https://www.ticketmaster.com/event/0D0
- 0636E0CE06340?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_name=
- rosalia_2026&promo_creative=button&promo_position=event_details\nMore info
- : https://www.kaseyacenter.com/events/detail/rosalia
-LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
-URL:https://www.kaseyacenter.com/events/detail/rosalia
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rosalía
-DTSTART;TZID=America/New_York:20260916T203000
-DTEND;TZID=America/New_York:20260916T233000
-UID:bf6873309ebe07d17c3e566eefb9cdf8e45d48b0@kaseyacenter.com
-DESCRIPTION:LUX Tour 2026\nTickets: https://www.ticketmaster.com/event/0D0
- 0636E0CE06340?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_name=
- rosalia_2026&promo_creative=button&promo_position=event_details\nMore info
- : https://www.kaseyacenter.com/events/detail/rosalia
-LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
-URL:https://www.kaseyacenter.com/events/detail/rosalia
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gorillaz
-DTSTART;TZID=America/New_York:20260918T193000
-DTEND;TZID=America/New_York:20260918T223000
-UID:d77ba53bc1fb4443b4d1c728c80cf29311419910@kaseyacenter.com
-DESCRIPTION:The Mountain Tour\nTickets: https://www.ticketmaster.com/event
- /0D00645ACAB6102B?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_n
- ame=gorillaz_2026&promo_creative=button&promo_position=event_details\nMore
-  info: https://www.kaseyacenter.com/events/detail/gorillaz-1
-LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
-URL:https://www.kaseyacenter.com/events/detail/gorillaz-1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Soda Stereo
-DTSTART;TZID=America/New_York:20260920T200000
-DTEND;TZID=America/New_York:20260920T230000
-UID:f482789220f6e290e3238a87198a45a91d9be26f@kaseyacenter.com
-DESCRIPTION:ECOS Tour\nTickets: https://www.ticketmaster.com/event/0D00649
- D9866B5C7?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_name=soda
- -stereo_2026&promo_creative=button&promo_position=event_details\nMore info
- : https://www.kaseyacenter.com/events/detail/soda-stereo-1
-LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
-URL:https://www.kaseyacenter.com/events/detail/soda-stereo-1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Arly Larivière
-DTSTART;TZID=America/New_York:20260925T200000
-DTEND;TZID=America/New_York:20260925T230000
-UID:934b8db7259f035aeb427684b27dea45b8c015d7@kaseyacenter.com
-DESCRIPTION:Konpa En Symphony\nTickets: https://www.ticketmaster.com/event
- /0D0064989005C8A9?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_n
- ame=arly-lariviere_2026&promo_creative=button&promo_position=event_details
- \nMore info: https://www.kaseyacenter.com/events/detail/arly-lariviere
-LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
-URL:https://www.kaseyacenter.com/events/detail/arly-lariviere
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:aespa
-DTSTART;TZID=America/New_York:20260926T200000
-DTEND;TZID=America/New_York:20260926T230000
-UID:092fe4a7b0864ea6a6d95c2f1115b8e2b21d4e65@kaseyacenter.com
-DESCRIPTION:2026–27 LIVE TOUR – SYNK : Complæxity\nTickets: https://w
- ww.ticketmaster.com/event/0D0064940F3C61C3?CAMEFROM=CFC_601BISCAYNE_KCCOM&
- promo_id=kcdotcom&promo_name=aespa_2026&promo_creative=button&promo_positi
- on=event_details\nMore info: https://www.kaseyacenter.com/events/detail/ae
- spa
-LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
-URL:https://www.kaseyacenter.com/events/detail/aespa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kany Garcia
 DTSTART;TZID=America/New_York:20261003T200000
 DTEND;TZID=America/New_York:20261003T230000
@@ -1103,5 +992,18 @@ DESCRIPTION:NBA Regular Season\nTickets: https://www.ticketmaster.com/even
 LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
 URL:https://www.kaseyacenter.com/events/detail/orlando-magic-vs-miami-heat
  -26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EROS RAMAZZOTTI
+DTSTART;TZID=America/New_York:20271008T200000
+DTEND;TZID=America/New_York:20271008T230000
+UID:4f8721449dcd9d923a54ea3ae2021e9b067fd73a@kaseyacenter.com
+DESCRIPTION:UNA HISTORIA IMPORTANTE\nTickets: https://www.ticketmaster.com
+ /event/0D00628388B04C45?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&p
+ romo_name=eros-ramazzotti_2026&promo_creative=button&promo_position=event_
+ details\nMore info: https://www.kaseyacenter.com/events/detail/eros-ramazz
+ otti-3
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/eros-ramazzotti-3
 END:VEVENT
 END:VCALENDAR
