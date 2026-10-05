@@ -867,6 +867,18 @@ URL:https://www.kaseyacenter.com/events/detail/orlando-magic-vs-miami-heat
  -25
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Jay Wheeler
+DTSTART;TZID=America/New_York:20270311T200000
+DTEND;TZID=America/New_York:20270311T230000
+UID:0db22e342b8ef7357f6ec32f604d19eb48a49f7e@kaseyacenter.com
+DESCRIPTION:La Voz Favorita Tour\nTickets: https://www.ticketmaster.com/ev
+ ent/0D00654119AE11EB?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&prom
+ o_name=jay-wheeler_2027&promo_creative=button&promo_position=event_details
+ \nMore info: https://www.kaseyacenter.com/events/detail/jay-wheeler-1
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/jay-wheeler-1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Don Omar
 DTSTART;TZID=America/New_York:20270312T200000
 DTEND;TZID=America/New_York:20270312T230000
