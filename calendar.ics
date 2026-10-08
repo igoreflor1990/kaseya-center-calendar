@@ -186,15 +186,15 @@ URL:https://www.kaseyacenter.com/events/detail/brooklyn-nets-vs-miami-heat
  -20
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:iHeartRadio
+SUMMARY:iHeartRadio Fiesta Latina
 DTSTART;TZID=America/New_York:20261017T200000
 DTEND;TZID=America/New_York:20261017T230000
 UID:a11b77866883e30b3fafd2c1663e958b3ea7d8e0@kaseyacenter.com
-DESCRIPTION:Fiesta Latina 2026\nTickets: https://www.ticketmaster.com/even
- t/0D0064C58CC07B23?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_
- name=iheart-radio-fiesta-latina_2026&promo_creative=button&promo_position=
- event_details\nMore info: https://www.kaseyacenter.com/events/detail/ihear
- tradio
+DESCRIPTION:Hosted by Enrique Santos\nTickets: https://www.ticketmaster.co
+ m/event/0D0064C58CC07B23?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&
+ promo_name=iheart-radio-fiesta-latina_2026&promo_creative=button&promo_pos
+ ition=event_details\nMore info: https://www.kaseyacenter.com/events/detail
+ /iheartradio
 LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
 URL:https://www.kaseyacenter.com/events/detail/iheartradio
 END:VEVENT
@@ -493,6 +493,18 @@ DESCRIPTION:NBA Regular Season\nTickets: https://www.ticketmaster.com/even
 LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
 URL:https://www.kaseyacenter.com/events/detail/washington-wizards-vs-miami
  -heat-24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RAWAYANA
+DTSTART;TZID=America/New_York:20261204T200000
+DTEND;TZID=America/New_York:20261204T230000
+UID:5cc646c53fa961dfedeedde248cc3b7b55600421@kaseyacenter.com
+DESCRIPTION:¿Dónde Es El After? World Tour\nTickets: https://www.ticketm
+ aster.com/event/0D00646CAA719BDC?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=k
+ cdotcom&promo_name=rawayana_2026&promo_creative=button&promo_position=even
+ t_details\nMore info: https://www.kaseyacenter.com/events/detail/rawayana
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/rawayana
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:RAWAYANA
