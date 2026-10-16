@@ -1005,6 +1005,18 @@ URL:https://www.kaseyacenter.com/events/detail/washington-wizards-vs-miami
  -heat-25
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Fonseca
+DTSTART;TZID=America/New_York:20270410T200000
+DTEND;TZID=America/New_York:20270410T230000
+UID:f2c88d56f2f3b3c36abf874510758590b13f73da@kaseyacenter.com
+DESCRIPTION:Antes Que El Tiempo Se Vaya Tour\nTickets: https://www.ticketm
+ aster.com/event/0D00654CC2857453?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=k
+ cdotcom&promo_name=fonseca_2027&promo_creative=button&promo_position=event
+ _details\nMore info: https://www.kaseyacenter.com/events/detail/fonseca-1
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/fonseca-1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Orlando Magic vs Miami HEAT
 DTSTART;TZID=America/New_York:20270411T180000
 DTEND;TZID=America/New_York:20270411T210000
