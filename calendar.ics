@@ -560,6 +560,18 @@ LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
 URL:https://www.kaseyacenter.com/events/detail/pablo-alboran-1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Feid
+DTSTART;TZID=America/New_York:20270211T200000
+DTEND;TZID=America/New_York:20270211T230000
+UID:c8ff6e97608c919eb09186e1de2d00249ec019dd@kaseyacenter.com
+DESCRIPTION:The Green Star Tour 2027\nTickets: https://www.ticketmaster.co
+ m/event/0D006562D90BAFAB?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&
+ promo_name=feid_2027&promo_creative=button&promo_position=event_details\nM
+ ore info: https://www.kaseyacenter.com/events/detail/feid-1
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/feid-1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Brooklyn Nets vs Miami HEAT
 DTSTART;TZID=America/New_York:20270214T130000
 DTEND;TZID=America/New_York:20270214T160000
