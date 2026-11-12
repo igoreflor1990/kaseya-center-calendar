@@ -814,6 +814,18 @@ URL:https://www.kaseyacenter.com/events/detail/orlando-magic-vs-miami-heat
  -26
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Phoebe Bridgers
+DTSTART;TZID=America/New_York:20270424T193000
+DTEND;TZID=America/New_York:20270424T223000
+UID:a9ffa9df27e601f44501a16ab15b9ee43f97ff70@kaseyacenter.com
+DESCRIPTION:The Lost Tour\nTickets: https://www.ticketmaster.com/event/0D0
+ 06566D3E0C864?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_name=
+ phoebe-bridgers_2027&promo_creative=button&promo_position=event_details\nM
+ ore info: https://www.kaseyacenter.com/events/detail/phoebe-bridgers
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/phoebe-bridgers
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:EROS RAMAZZOTTI
 DTSTART;TZID=America/New_York:20271008T200000
 DTEND;TZID=America/New_York:20271008T230000
