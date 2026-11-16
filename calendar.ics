@@ -826,6 +826,19 @@ LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
 URL:https://www.kaseyacenter.com/events/detail/phoebe-bridgers
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Alejandro Sanz
+DTSTART;TZID=America/New_York:20270515T200000
+DTEND;TZID=America/New_York:20270515T230000
+UID:3f6e8d3bf85117b81f65e3655bd1cc5a96c39a38@kaseyacenter.com
+DESCRIPTION:¿Y Ahora Qué? Más… Tour\nTickets: https://www.ticketmaste
+ r.com/event/0D006569EEBCDC47?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=aleja
+ ndro-sanz_2027kcdotcom&promo_name=&promo_creative=button&promo_position=ev
+ ent_details\nMore info: https://www.kaseyacenter.com/events/detail/alejand
+ ro-sanz-4
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/alejandro-sanz-4
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:EROS RAMAZZOTTI
 DTSTART;TZID=America/New_York:20271008T200000
 DTEND;TZID=America/New_York:20271008T230000
