@@ -415,6 +415,18 @@ URL:https://www.kaseyacenter.com/events/detail/chicago-bulls-vs-miami-heat
  -22
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bebeshito
+DTSTART;TZID=America/New_York:20261226T200000
+DTEND;TZID=America/New_York:20261226T230000
+UID:9b046b897eebab58a8fb08de99b7c4e1f00c2c41@kaseyacenter.com
+DESCRIPTION:El Comboy Tour USA\nTickets: https://www.ticketmaster.com/even
+ t/0D0065707093193E?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_
+ name=bebeshito_2027&promo_creative=button&promo_position=event_details\nMo
+ re info: https://www.kaseyacenter.com/events/detail/bebeshito-1
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/bebeshito-1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Charlotte Hornets vs Miami HEAT
 DTSTART;TZID=America/New_York:20261227T180000
 DTEND;TZID=America/New_York:20261227T210000
