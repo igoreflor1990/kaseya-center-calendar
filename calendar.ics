@@ -610,6 +610,19 @@ URL:https://www.kaseyacenter.com/events/detail/san-antonio-spurs-vs-miami-
  heat-16
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BKFC presents KnuckleMania VII
+DTSTART;TZID=America/New_York:20270227T200000
+DTEND;TZID=America/New_York:20270227T230000
+UID:9339ac54a4c0429ea4463eba6b4f889adf3c36af@kaseyacenter.com
+DESCRIPTION:Bare Knuckle Fighting Championship\nTickets: https://www.ticke
+ tmaster.com/event/0D00657111295572?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id
+ =kcdotcom&promo_name= bkfc_knucklemania&promo_creative=button&promo_positi
+ on=event_details\nMore info: https://www.kaseyacenter.com/events/detail/kn
+ ucklemania-vii
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/knucklemania-vii
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Toronto Raptors vs Miami HEAT
 DTSTART;TZID=America/New_York:20270302T193000
 DTEND;TZID=America/New_York:20270302T223000
