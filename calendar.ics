@@ -839,8 +839,8 @@ URL:https://www.kaseyacenter.com/events/detail/alejandro-sanz-4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gente de Zona
-DTSTART;TZID=America/New_York:20270605T140000
-DTEND;TZID=America/New_York:20270605T170000
+DTSTART;TZID=America/New_York:20270605T200000
+DTEND;TZID=America/New_York:20270605T230000
 UID:5dccf052e53262a2ca2d6e64778fea63bb55141b@kaseyacenter.com
 DESCRIPTION:Isla Viva Tour\nTickets: https://www.ticketmaster.com/event/0D
  0064F77EC22BAE?CAMEFROM=CFC_601BISCAYNE_KCCOM&promo_id=kcdotcom&promo_name
