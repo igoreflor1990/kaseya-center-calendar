@@ -289,6 +289,19 @@ LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
 URL:https://www.kaseyacenter.com/events/detail/rawayana
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Cleveland Cavaliers vs Miami HEAT
+DTSTART;TZID=America/New_York:20261210T193000
+DTEND;TZID=America/New_York:20261210T223000
+UID:67fca264ad30c567e2110171d1fdebe14c969f0a@kaseyacenter.com
+DESCRIPTION:NBA Regular Season\nTickets: https://www.ticketmaster.com/even
+ t/0D00650C8EA73B5F?CAMEFROM=CFC_HEAT_KCCOM&promo_id=kcdotcom&promo_name=on
+ -sale&promo_creative=button&promo_position=event_details\nMore info: https
+ ://www.kaseyacenter.com/events/detail/cleveland-cavaliers-vs-miami-heat-27
+LOCATION:Kaseya Center\, 601 Biscayne Blvd\, Miami\, FL 33132
+URL:https://www.kaseyacenter.com/events/detail/cleveland-cavaliers-vs-miam
+ i-heat-27
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:New York Knicks vs Miami HEAT
 DTSTART;TZID=America/New_York:20261212T203000
 DTEND;TZID=America/New_York:20261212T233000
